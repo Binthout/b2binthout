@@ -1,8 +1,11 @@
 {
   "current": {
+    "colors_accent_2": "#ffe200",
     "colors_outline_button_labels": "#000000",
     "colors_background_2": "#ffe200",
+    "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "background-1",
+    "accent_icons": "accent-2",
     "social_facebook_link": "http:\/\/facebook.com\/binthoutnl",
     "social_instagram_link": "http:\/\/instagram.com\/binthout\/",
     "checkout_logo_image": "shopify:\/\/shop_images\/binthout_60x30mm-01.png",
@@ -43,6 +46,23 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "ec54367c-8389-4e15-b510-52e78ec8518e": {
+            "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "b294fd8b-3a9e-4500-b98e-3f087f5a0167": {
+            "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
@@ -50,7 +70,9 @@
           }
         },
         "block_order": [
-          "footer-0"
+          "footer-0",
+          "ec54367c-8389-4e15-b510-52e78ec8518e",
+          "b294fd8b-3a9e-4500-b98e-3f087f5a0167"
         ],
         "settings": {
           "color_scheme": "background-1",
