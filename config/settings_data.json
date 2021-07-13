@@ -3,6 +3,10 @@
     "colors_outline_button_labels": "#000000",
     "colors_background_2": "#ffe200",
     "sold_out_badge_color_scheme": "background-1",
+    "social_facebook_link": "http:\/\/facebook.com\/binthoutnl",
+    "social_instagram_link": "http:\/\/instagram.com\/binthout\/",
+    "checkout_logo_image": "shopify:\/\/shop_images\/binthout_60x30mm-01.png",
+    "checkout_button_color": "#ffe200",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
