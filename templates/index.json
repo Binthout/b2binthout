@@ -2,9 +2,7 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "settings": {
-        "desktop_text_box_position": "flex-end"
-      },
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -16,42 +14,78 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_label_2": ""
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
-      "block_order": ["heading", "button"]
-    },
-    "featured_products": {
-      "type": "featured-collection",
+      "block_order": [
+        "heading",
+        "button"
+      ],
       "settings": {
-        "title": "Featured products"
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
       }
     },
     "image_text": {
       "type": "image-with-text",
       "blocks": {
         "heading": {
-          "type": "heading"
+          "type": "heading",
+          "settings": {
+            "heading": "Welkom op B2Binthout"
+          }
         },
         "text": {
-          "type": "text"
+          "type": "text",
+          "settings": {
+            "text": "<p>Deze website is ingericht op de wederverkoop van Binthout producten. De getoonde producten zijn speciaal voor u geselecteerd en alleen via inloggen te bestellen.<\/p>"
+          }
         },
         "button": {
-          "type": "button"
+          "type": "button",
+          "settings": {
+            "button_label": "Naar de producten",
+            "button_link": "shopify:\/\/collections"
+          }
         }
       },
       "block_order": [
         "heading",
         "text",
         "button"
-      ]
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
+        "height": "small",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": false
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_products",
-    "image_text"
+    "image_text",
+    "featured_products"
   ]
 }
