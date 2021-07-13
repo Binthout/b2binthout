@@ -70,6 +70,7 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "collection": "",
@@ -81,11 +82,48 @@
         "add_image_padding": false,
         "show_vendor": false
       }
+    },
+    "162617824773311054": {
+      "type": "collection-list",
+      "blocks": {
+        "162617824773311054-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lampen"
+          }
+        },
+        "162617824773311054-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stadstorens"
+          }
+        },
+        "162617824773311054-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kopstukken"
+          }
+        }
+      },
+      "block_order": [
+        "162617824773311054-0",
+        "162617824773311054-1",
+        "162617824773311054-2"
+      ],
+      "settings": {
+        "title": "Geselecteerde collecties",
+        "image_ratio": "square",
+        "color_scheme": "background-2",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": true
+      }
     }
   },
   "order": [
     "image_banner",
     "image_text",
-    "featured_products"
+    "featured_products",
+    "162617824773311054"
   ]
 }
