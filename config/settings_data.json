@@ -1,6 +1,8 @@
 {
   "current": {
-    "colors_accent_2": "#ffe200",
+    "colors_solid_button_labels": "#000000",
+    "colors_accent_1": "#ffe200",
+    "colors_accent_2": "#1a1b18",
     "colors_outline_button_labels": "#000000",
     "colors_background_2": "#ffe200",
     "sale_badge_color_scheme": "accent-2",
