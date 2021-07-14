@@ -38,7 +38,7 @@
           "logo": "shopify:\/\/shop_images\/binthout_60x30mm-01.png",
           "logo_width": 140,
           "logo_position": "middle-left",
-          "menu": "main-menu",
+          "menu": "",
           "show_line_separator": false,
           "enable_sticky_header": false
         }
