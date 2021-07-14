@@ -33,41 +33,6 @@
         "adapt_height_first_image": false
       }
     },
-    "image_text": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Welkom op B2Binthout"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Deze website is ingericht op de wederverkoop van Binthout producten. De getoonde producten zijn speciaal voor u geselecteerd en alleen via inloggen te bestellen.<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
-        "height": "small",
-        "color_scheme": "inverse",
-        "layout": "image_first"
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "disabled": true,
@@ -120,6 +85,41 @@
         "show_view_all": true
       }
     },
+    "image_text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welkom op B2Binthout"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Deze website is ingericht op de wederverkoop van Binthout producten. De getoonde producten zijn speciaal voor u geselecteerd en alleen via inloggen te bestellen.<\/p>"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
+        "height": "small",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
     "1626257381def2317b": {
       "type": "rich-text",
       "blocks": {
@@ -164,9 +164,9 @@
   },
   "order": [
     "image_banner",
-    "image_text",
     "featured_products",
     "162617824773311054",
+    "image_text",
     "1626257381def2317b",
     "1626257329f9d66980"
   ]
