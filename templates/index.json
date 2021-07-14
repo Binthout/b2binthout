@@ -51,8 +51,8 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Naar de producten",
-            "button_link": "shopify:\/\/collections"
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
@@ -119,12 +119,55 @@
         "image_padding": false,
         "show_view_all": true
       }
+    },
+    "1626257381def2317b": {
+      "type": "rich-text",
+      "blocks": {
+        "1626257381def2317b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bestellen kan hieronder",
+            "heading_size": "medium"
+          }
+        },
+        "1626257381def2317b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ivm met werkzaamheden aan deze website kun je zelf geen bestellingen doorvoeren.<\/p><p><strong>Geef je bestelling gewoon aan ons door en wij voeren hem in!<\/strong><\/p>"
+          }
+        },
+        "1626257381def2317b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1626257381def2317b-0",
+        "1626257381def2317b-1",
+        "1626257381def2317b-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1626257329f9d66980": {
+      "type": "contact-form",
+      "settings": {
+      }
     }
   },
   "order": [
     "image_banner",
     "image_text",
     "featured_products",
-    "162617824773311054"
+    "162617824773311054",
+    "1626257381def2317b",
+    "1626257329f9d66980"
   ]
 }
