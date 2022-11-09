@@ -115,7 +115,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
-        "height": "small",
+        "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
       }
