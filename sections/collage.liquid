@@ -88,8 +88,7 @@
                           {{ block.settings.cover_image | image_url: width: 3000 | image_tag:
                             loading: 'lazy',
                             sizes: sizes,
-                            widths: '550, 720, 990, 1100, 1500, 2200, 3000'
-                          }}
+                            widths: '550, 720, 990, 1100, 1500, 2200, 3000' }}
                         {%- else -%}
                           {{ 'collection-2' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
                         {%- endif -%}
