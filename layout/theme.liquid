@@ -225,13 +225,6 @@
       <link rel="preload" as="font" href="{{ settings.type_header_font | font_url }}" type="font/woff2" crossorigin>
     {%- endunless -%}
 
-<<<<<<< HEAD
-    <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-  {{ 'shopstorm-apps.scss.css' | asset_url | stylesheet_tag }}
-  {% render 'shopstorm-scripttags' %}
-</head>
-<body>
-=======
     {%- if settings.predictive_search_enabled -%}
       <link rel="stylesheet" href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
     {%- endif -%}
@@ -244,7 +237,6 @@
   </head>
 
   <body class="gradient">
->>>>>>> 287add2dca7c64ea58f64daa52f426fceae530f5
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
@@ -296,14 +288,8 @@
       }
     </script>
 
-<<<<<<< HEAD
-    <script src="{{ 'slider.js' | asset_url }}" defer="defer"></script>
-    <script src="{{ 'variants.js' | asset_url }}" defer="defer"></script>
-   {% render 'product-customizer-asw' %}
-=======
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
->>>>>>> 287add2dca7c64ea58f64daa52f426fceae530f5
   </body>
 </html>

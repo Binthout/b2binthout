@@ -1,67 +1,16 @@
 {
   "sections": {
-    "1626178617cc191c10": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1626178617cc191c10-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1626178617cc191c10-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626178617cc191c10-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1626178617cc191c10-0",
-        "1626178617cc191c10-1",
-        "1626178617cc191c10-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
-<<<<<<< HEAD
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true
-=======
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "background-1"
->>>>>>> 287add2dca7c64ea58f64daa52f426fceae530f5
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-<<<<<<< HEAD
-        "products_per_page": 24,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_vendor": false,
-        "enable_filtering": false,
-        "enable_sorting": false
-=======
         "products_per_page": 16,
         "columns_desktop": 4,
         "image_ratio": "adapt",
@@ -73,12 +22,10 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
->>>>>>> 287add2dca7c64ea58f64daa52f426fceae530f5
       }
     }
   },
   "order": [
-    "1626178617cc191c10",
     "banner",
     "product-grid"
   ]
