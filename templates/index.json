@@ -65,8 +65,10 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Logo_VL_Fonds_RGB.png",
+            "image_url": "",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -74,8 +76,10 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Logo_rabobankfoundation_354c528c-ea5b-4607-a7ce-384048314976.png",
+            "image_url": "",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -83,8 +87,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Impactpartners",
+            "text": "<p>Dankzij <a href=\"https:\/\/www.rabobank.nl\/over-ons\/rabofoundation\" target=\"_blank\" title=\"Rabobank Foundation Binthout hout\">Rabobank Foundation<\/a> & <a href=\"https:\/\/www.doen.nl\/\" target=\"_blank\" title=\"Stichting DOEN binthout design\">Vriendenloterij FONDS<\/a> kunnen wij impact blijven maken!<\/p>",
             "link_label": "",
             "link": ""
           }
