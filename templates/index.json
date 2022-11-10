@@ -129,12 +129,23 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "6dd88817-ab02-4578-904d-f5b21be23511": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contactformulier",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1",
     "video",
     "multicolumn",
-    "e29dba79-86da-45f4-a0c6-df9f75fbe1ce"
+    "e29dba79-86da-45f4-a0c6-df9f75fbe1ce",
+    "6dd88817-ab02-4578-904d-f5b21be23511"
   ]
 }
