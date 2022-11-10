@@ -1,33 +1,48 @@
 {
   "sections": {
-    "rich_text": {
-      "type": "rich-text",
+    "1631101524ca0e1654": {
+      "type": "image-with-text",
       "blocks": {
-        "heading": {
+        "1631101524ca0e1654-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>2<\/p>",
+            "heading": "Wij  redden Nederlandse bomen van de versnipperaar!",
             "heading_size": "h1"
           }
         },
-        "text": {
+        "1631101524ca0e1654-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>En maken er prachtige houten producten van. Sociaal geproduceerd, omdat we geloven dat we met waardevol werk impact maken.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "79e6d192-4247-4603-99c5-83d17289c445": {
+          "type": "button",
+          "settings": {
+            "button_label": "Impactrapport 2021",
+            "button_link": "shopify:\/\/blogs\/sociaal-ondernemen\/impactrapport-2021"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "1631101524ca0e1654-0",
+        "1631101524ca0e1654-1",
+        "79e6d192-4247-4603-99c5-83d17289c445"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "image": "shopify:\/\/shop_images\/zagerij-van-boom-tot-tafel_f5218fe5-1d00-41d7-aaae-1e71b94459fa.jpg",
+        "image_link": "",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "video": {
