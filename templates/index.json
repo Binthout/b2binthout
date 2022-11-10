@@ -6,7 +6,7 @@
         "template--14745249218752__22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1-166807237600225cee-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Wij redden Nederlandse bomen van de versnipperaar!",
             "heading_size": "h1"
           }
         },
@@ -31,6 +31,7 @@
         "template--14745249218752__22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1-166807237600225cee-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
