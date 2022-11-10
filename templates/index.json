@@ -60,13 +60,11 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo_VL_Fonds_RGB.png",
-            "image_url": "",
+            "image": "shopify:\/\/shop_images\/Logo_VL_Fonds_RGB_61496140-f9e0-423a-bb81-0250e3a3621a.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -76,8 +74,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo_rabobankfoundation_354c528c-ea5b-4607-a7ce-384048314976.png",
-            "image_url": "",
+            "image": "shopify:\/\/shop_images\/Logo_rabobankfoundation.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -102,7 +99,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
