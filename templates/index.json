@@ -3,6 +3,14 @@
     "22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1": {
       "type": "image-with-text",
       "blocks": {
+        "ea978b4a-2c10-4672-af20-a5a6ab59f948": {
+          "type": "caption",
+          "settings": {
+            "caption": "Winnaar social impact award",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "template--14745249218752__22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1-166807237600225cee-0": {
           "type": "heading",
           "settings": {
@@ -26,6 +34,7 @@
         }
       },
       "block_order": [
+        "ea978b4a-2c10-4672-af20-a5a6ab59f948",
         "template--14745249218752__22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1-166807237600225cee-0",
         "template--14745249218752__22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1-166807237600225cee-1",
         "template--14745249218752__22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1-166807237600225cee-2"
