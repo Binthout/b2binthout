@@ -21,7 +21,7 @@
           "type": "button",
           "settings": {
             "button_label": "Impactrapport 2021",
-            "button_link": ""
+            "button_link": "#"
           }
         }
       },
@@ -46,6 +46,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
