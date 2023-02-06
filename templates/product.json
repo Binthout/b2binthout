@@ -53,36 +53,36 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Materials",
+            "icon": "leather",
             "content": "",
-            "page": "",
-            "icon": "leather"
+            "page": ""
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shipping & Returns",
+            "icon": "truck",
             "content": "",
-            "page": "",
-            "icon": "truck"
+            "page": ""
           }
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Dimensions",
+            "icon": "ruler",
             "content": "",
-            "page": "",
-            "icon": "ruler"
+            "page": ""
           }
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Care Instructions",
+            "icon": "heart",
             "content": "",
-            "page": "",
-            "icon": "heart"
+            "page": ""
           }
         },
         "share": {
@@ -110,7 +110,6 @@
         "enable_sticky_info": true,
         "gallery_layout": "stacked",
         "media_size": "large",
-        "constrain_to_viewport": true,
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
