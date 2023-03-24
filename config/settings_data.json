@@ -1,6 +1,6 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/b2binthout-vierkant.png",
+    "logo": "{{ shop.brand.logo }}",
     "logo_width": 200,
     "favicon": "{{ shop.brand.square_logo }}",
     "colors_solid_button_labels": "#1a1b18",
