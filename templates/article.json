@@ -45,43 +45,6 @@
         "padding_bottom": 32
       }
     },
-    "main": {
-      "type": "main-article",
-      "blocks": {
-        "featured_image": {
-          "type": "featured_image",
-          "settings": {
-            "image_height": "medium"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "blog_show_date": false,
-            "blog_show_author": false
-          }
-        },
-        "content": {
-          "type": "content",
-          "settings": {
-          }
-        },
-        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29": {
-          "type": "share",
-          "settings": {
-            "share_label": "Deel deze pagina."
-          }
-        }
-      },
-      "block_order": [
-        "featured_image",
-        "title",
-        "content",
-        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29"
-      ],
-      "settings": {
-      }
-    },
     "ef98d4ad-2afa-47df-a4c5-3b7e286c9377": {
       "type": "rich-text",
       "blocks": {
@@ -124,11 +87,48 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "medium"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        },
+        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29": {
+          "type": "share",
+          "settings": {
+            "share_label": "Deel deze pagina."
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "f3ae94d7-ff59-4fdf-8082-33d7e90222f6",
-    "main",
-    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377"
+    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377",
+    "main"
   ]
 }
