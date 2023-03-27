@@ -12,12 +12,14 @@
         },
         "template--14745248989376__f3ae94d7-ff59-4fdf-8082-33d7e90222f6-167991532630741576-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": ""
           }
         },
         "template--14745248989376__f3ae94d7-ff59-4fdf-8082-33d7e90222f6-167991532630741576-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -38,8 +40,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 32
       }
     },
     "main": {
