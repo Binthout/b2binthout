@@ -35,6 +35,7 @@
       "blocks": {
         "template--14745248989376__83afb444-8bf1-4bb6-bc85-ee04caa85d60-1679911525d85e9ac7-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -44,6 +45,7 @@
         },
         "template--14745248989376__83afb444-8bf1-4bb6-bc85-ee04caa85d60-1679911525d85e9ac7-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -53,11 +55,12 @@
         },
         "template--14745248989376__83afb444-8bf1-4bb6-bc85-ee04caa85d60-1679911525d85e9ac7-2": {
           "type": "column",
+          "source": "{{ article.metafields.custom.partner.value }}",
           "settings": {
-            "title": "Column{{ article.title }}",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "{{ article.metafields.custom.partner.value.partner.value }}",
+            "text": "<p>{{ article.metafields.custom.partner.value.partner.value }}<\/p>",
+            "link_label": "{{ article.metafields.custom.partner.value.co_2.value }}",
+            "link": "{{ article.metafields.custom.partner.value.link_naar_de_partner.value }}"
           }
         }
       },
