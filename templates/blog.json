@@ -20,7 +20,7 @@
           "type": "button",
           "source": "{{ blog.metafields.custom.cta.value }}",
           "settings": {
-            "button_label": "{{ blog.metafields.custom.cta.value.knoptekst.value }}",
+            "button_label": "{{ blog.metafields.custom.cta.value.cta.value }}",
             "button_link": "{{ blog.metafields.custom.cta.value.url.value }}",
             "button_style_secondary": false,
             "button_label_2": "",
