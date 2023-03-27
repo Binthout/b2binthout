@@ -1,5 +1,47 @@
 {
   "sections": {
+    "f3ae94d7-ff59-4fdf-8082-33d7e90222f6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14745248989376__f3ae94d7-ff59-4fdf-8082-33d7e90222f6-167991532630741576-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>{{ article.title }}<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14745248989376__f3ae94d7-ff59-4fdf-8082-33d7e90222f6-167991532630741576-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--14745248989376__f3ae94d7-ff59-4fdf-8082-33d7e90222f6-167991532630741576-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14745248989376__f3ae94d7-ff59-4fdf-8082-33d7e90222f6-167991532630741576-0",
+        "template--14745248989376__f3ae94d7-ff59-4fdf-8082-33d7e90222f6-167991532630741576-1",
+        "template--14745248989376__f3ae94d7-ff59-4fdf-8082-33d7e90222f6-167991532630741576-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-article",
       "blocks": {
@@ -11,6 +53,7 @@
         },
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "blog_show_date": false,
             "blog_show_author": false
@@ -81,6 +124,7 @@
     }
   },
   "order": [
+    "f3ae94d7-ff59-4fdf-8082-33d7e90222f6",
     "main",
     "ef98d4ad-2afa-47df-a4c5-3b7e286c9377"
   ]
