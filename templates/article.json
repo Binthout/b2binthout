@@ -2,6 +2,7 @@
   "sections": {
     "f3ae94d7-ff59-4fdf-8082-33d7e90222f6": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--14745248989376__f3ae94d7-ff59-4fdf-8082-33d7e90222f6-167991532630741576-0": {
           "type": "heading",
@@ -55,7 +56,6 @@
         },
         "title": {
           "type": "title",
-          "disabled": true,
           "settings": {
             "blog_show_date": false,
             "blog_show_author": false
