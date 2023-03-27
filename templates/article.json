@@ -102,7 +102,7 @@
         "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-2": {
           "type": "button",
           "settings": {
-            "button_label": "{{ article.metafields.custom.cta.value.koptekst.value }}",
+            "button_label": "{{ article.metafields.custom.cta.value.cta.value }}",
             "button_link": "{{ article.url }}",
             "button_style_secondary": false,
             "button_label_2": "",
