@@ -85,22 +85,23 @@
       "blocks": {
         "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-0": {
           "type": "heading",
+          "source": "{{ article.metafields.custom.cta.value }}",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>{{ article.metafields.custom.cta.value.koptekst.value }}<\/p>",
             "heading_size": "h1"
           }
         },
         "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "{{ article.metafields.custom.cta.value.beschrijving | metafield_tag }}"
           }
         },
         "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "{{ article.metafields.custom.cta.value.koptekst.value }}",
+            "button_link": "{{ article.url }}",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
