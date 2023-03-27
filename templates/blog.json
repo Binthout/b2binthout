@@ -15,7 +15,7 @@
           "type": "text",
           "source": "{{ blog.metafields.custom.cta.value }}",
           "settings": {
-            "text": "{{ blog.metafields.custom.cta.value.beschrijving | metafield_tag }}"
+            "text": "<p>{{ blog.metafields.custom.cta.value.beschrijving | metafield_tag }}<\/p>"
           }
         },
         "template--14745248858304__50bfb41b-60d4-44ba-84fb-7fef03ae1eb5-16799123884bec702f-2": {
@@ -78,7 +78,7 @@
     "4182d282-06cf-4cb3-9531-05000b4972ad": {
       "type": "contact-form",
       "settings": {
-        "heading": "Contact form",
+        "heading": "Contactformulier",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 36,
