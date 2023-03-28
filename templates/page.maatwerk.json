@@ -21,11 +21,12 @@
         "template--14745248792768__b6458594-ba54-4248-86c7-17005f427540-1679912587b8c36d5d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Daar waar deze drie kenwaarden samenkomen; worden wij gelukkig. <\/p>"
           }
         },
         "template--14745248792768__b6458594-ba54-4248-86c7-17005f427540-1679912587b8c36d5d-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
