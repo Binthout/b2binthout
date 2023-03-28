@@ -17,6 +17,7 @@
         "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-1": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Snijplank-eiken-eigenlogo.jpg",
             "caption": "Impactmaker",
             "heading": "Zeg het met een Plankjewel",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -27,6 +28,7 @@
         "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-2": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/houten_sleutelhanger_druppel_uw_logo.jpg",
             "caption": "Klein",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -41,7 +43,7 @@
         "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-2"
       ],
       "settings": {
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_image_width": "medium",
         "heading_size": "h1",
         "text_style": "body",
