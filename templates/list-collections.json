@@ -43,7 +43,7 @@
         "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-2"
       ],
       "settings": {
-        "image_height": "large",
+        "image_height": "medium",
         "desktop_image_width": "medium",
         "heading_size": "h1",
         "text_style": "body",
@@ -53,7 +53,7 @@
         "image_layout": "alternate-left",
         "section_color_scheme": "background-1",
         "row_color_scheme": "background-1",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
