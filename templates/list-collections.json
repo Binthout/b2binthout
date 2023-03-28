@@ -79,7 +79,7 @@
             "heading": "Sleutelhangers op maat",
             "text": "<p>Massief houten sleutelhangers met jouw logo. In diverse vormen en uitvoeringen. Vanaf 100stuks te bestellen.<\/p>",
             "button_label": "Klik hier voor meer info",
-            "button_link": ""
+            "button_link": "shopify:\/\/collections\/sleutelhangers-van-hout"
           }
         },
         "template--14745249022144__b27880e1-a552-412a-b975-8e40895011b7-1679994314deeaa50b-1": {
@@ -115,7 +115,7 @@
         "desktop_image_width": "medium",
         "heading_size": "h1",
         "text_style": "body",
-        "button_style": "secondary",
+        "button_style": "primary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-left",
