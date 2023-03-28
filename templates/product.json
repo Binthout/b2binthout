@@ -44,6 +44,18 @@
             "show_dynamic_checkout": false
           }
         },
+        "e21088d7-09bf-48ef-b507-6db39bae6f6f": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "heart",
+            "heading_1": "Sociale productie",
+            "icon_2": "leaf",
+            "heading_2": "van Hollands hout",
+            "icon_3": "recycle",
+            "heading_3": "Circulair & Duurzaam"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -64,6 +76,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "e21088d7-09bf-48ef-b507-6db39bae6f6f",
         "description",
         "share"
       ],
