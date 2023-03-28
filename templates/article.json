@@ -21,7 +21,7 @@
           "type": "button",
           "settings": {
             "button_label": "{{ article.metafields.custom.cta.value.cta.value }}",
-            "button_link": "{{ article.url }}",
+            "button_link": "{{ article.metafields.custom.cta.value.url.value }}",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
