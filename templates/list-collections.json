@@ -13,34 +13,10 @@
             "button_label": "Product bekijken",
             "button_link": ""
           }
-        },
-        "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-1": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Snijplank-eiken-eigenlogo.jpg",
-            "caption": "Impactmaker",
-            "heading": "Zeg het met een Plankjewel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-2": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/houten_sleutelhanger_druppel_uw_logo.jpg",
-            "caption": "Klein",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-0",
-        "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-1",
-        "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-2"
+        "template--14745249022144__022f8f70-fae2-436f-93b5-29fc8fcb96ca-1679990066a432292e-0"
       ],
       "settings": {
         "image_height": "medium",
@@ -51,6 +27,62 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "68ffefc7-41ed-4cd9-8274-4da1c3cbd19b": {
+      "type": "multirow",
+      "blocks": {
+        "template--14745249022144__68ffefc7-41ed-4cd9-8274-4da1c3cbd19b-1679994314deeaa50b-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Snijplank-eiken-eigenlogo.jpg",
+            "caption": "Gepersonaliseerd & Uniek",
+            "heading": "Zeg het met een PLANKJEWEL",
+            "text": "<p>Met Plankjewel geef je een unieke snijplank van FSC® 100% Nederlands hout met je eigen tekst of logo erop gegraveerd. <\/p>",
+            "button_label": "Product bekijken",
+            "button_link": ""
+          }
+        },
+        "template--14745249022144__68ffefc7-41ed-4cd9-8274-4da1c3cbd19b-1679994314deeaa50b-1": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--14745249022144__68ffefc7-41ed-4cd9-8274-4da1c3cbd19b-1679994314deeaa50b-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14745249022144__68ffefc7-41ed-4cd9-8274-4da1c3cbd19b-1679994314deeaa50b-0",
+        "template--14745249022144__68ffefc7-41ed-4cd9-8274-4da1c3cbd19b-1679994314deeaa50b-1",
+        "template--14745249022144__68ffefc7-41ed-4cd9-8274-4da1c3cbd19b-1679994314deeaa50b-2"
+      ],
+      "settings": {
+        "image_height": "large",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
         "section_color_scheme": "background-1",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
@@ -269,6 +301,7 @@
   },
   "order": [
     "022f8f70-fae2-436f-93b5-29fc8fcb96ca",
+    "68ffefc7-41ed-4cd9-8274-4da1c3cbd19b",
     "65eb4825-34f9-4a33-a5f4-69a6f67f93c3",
     "5e693aef-7aaf-4ebc-b789-4038d2a34c99",
     "main",
