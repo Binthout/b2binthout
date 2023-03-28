@@ -3,17 +3,25 @@
     "65eb4825-34f9-4a33-a5f4-69a6f67f93c3": {
       "type": "image-with-text",
       "blocks": {
+        "5a263782-34f5-4cad-8588-bfa3177349b6": {
+          "type": "caption",
+          "settings": {
+            "caption": "Bestseller in de lente!",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "template--14745249022144__65eb4825-34f9-4a33-a5f4-69a6f67f93c3-1679987932feb86047-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Bijenhotel met eigen logo",
             "heading_size": "h1"
           }
         },
         "template--14745249022144__65eb4825-34f9-4a33-a5f4-69a6f67f93c3-1679987932feb86047-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Ben je op zoek naar een uniek relatiegeschenk? Met dit bijenhotel & bijgeleverde houten spijker maak je mens en natuur blij.<\/p>",
             "text_style": "body"
           }
         },
@@ -26,6 +34,7 @@
         }
       },
       "block_order": [
+        "5a263782-34f5-4cad-8588-bfa3177349b6",
         "template--14745249022144__65eb4825-34f9-4a33-a5f4-69a6f67f93c3-1679987932feb86047-0",
         "template--14745249022144__65eb4825-34f9-4a33-a5f4-69a6f67f93c3-1679987932feb86047-1",
         "template--14745249022144__65eb4825-34f9-4a33-a5f4-69a6f67f93c3-1679987932feb86047-2"
