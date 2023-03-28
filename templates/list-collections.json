@@ -95,6 +95,7 @@
         },
         "template--14745249022144__b27880e1-a552-412a-b975-8e40895011b7-1679994314deeaa50b-2": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "caption": "Klemborden van hout",
             "heading": "Horeca producten",
