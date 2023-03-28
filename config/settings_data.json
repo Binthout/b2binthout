@@ -123,6 +123,9 @@
     "currency_code_enabled": true,
     "cart_type": "page",
     "show_cart_note": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/b2binthout.png",
+    "checkout_accent_color": "#000000",
+    "checkout_button_color": "#000000",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
