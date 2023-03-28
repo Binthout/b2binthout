@@ -62,29 +62,6 @@
         "padding_bottom": 36
       }
     },
-    "4182d282-06cf-4cb3-9531-05000b4972ad": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Wil jij ook productiepartner worden?",
-        "heading_size": "h2",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "main": {
-      "type": "main-blog",
-      "disabled": true,
-      "settings": {
-        "layout": "grid",
-        "show_image": true,
-        "image_height": "large",
-        "show_date": false,
-        "show_author": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "3a464835-965b-4a1c-9dec-2be9d1118886": {
       "type": "multicolumn",
       "blocks": {
@@ -119,13 +96,36 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "4182d282-06cf-4cb3-9531-05000b4972ad": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Wil jij ook productiepartner worden?",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "large",
+        "show_date": false,
+        "show_author": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "50bfb41b-60d4-44ba-84fb-7fef03ae1eb5",
     "94f41474-e702-4485-9c9e-b97f244143c3",
+    "3a464835-965b-4a1c-9dec-2be9d1118886",
     "4182d282-06cf-4cb3-9531-05000b4972ad",
-    "main",
-    "3a464835-965b-4a1c-9dec-2be9d1118886"
+    "main"
   ]
 }
