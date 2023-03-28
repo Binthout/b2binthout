@@ -104,9 +104,9 @@
         "template--14745248858304__3a464835-965b-4a1c-9dec-2be9d1118886-167999822304f8f024-0"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
-        "image_width": "half",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
