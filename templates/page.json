@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -53,6 +52,7 @@
     },
     "2cdad741-289c-487e-8af9-c8c88d2a0fa4": {
       "type": "multirow",
+      "disabled": true,
       "blocks": {
         "template--14745248792768__2cdad741-289c-487e-8af9-c8c88d2a0fa4-1679912568ba02d4fa-0": {
           "type": "row",
