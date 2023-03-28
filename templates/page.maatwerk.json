@@ -70,9 +70,9 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/lasersnijden-binthout-1.jpg",
-            "caption": "Caption",
-            "heading": "Lasersnijmachine",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "caption": "Nieuwe technieken",
+            "heading": "Lasersnijden van hout",
+            "text": "<p>Een van onze expertises is het lasersnijden & graveren van hout. Voor onze B2B klanten <\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
