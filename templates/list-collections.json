@@ -128,7 +128,6 @@
     },
     "077af7ab-918e-410a-a580-002bbbb6c7b5": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "template--14745249022144__077af7ab-918e-410a-a580-002bbbb6c7b5-167999457541791f3f-0": {
           "type": "featured_collection",
@@ -145,7 +144,7 @@
         "template--14745249022144__077af7ab-918e-410a-a580-002bbbb6c7b5-167999457541791f3f-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "houten-klemborden"
           }
         },
         "41146c20-553d-4239-b21a-9bcd1dac0d4e": {
