@@ -84,12 +84,48 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "3a464835-965b-4a1c-9dec-2be9d1118886": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14745248858304__3a464835-965b-4a1c-9dec-2be9d1118886-167999822304f8f024-0": {
+          "type": "column",
+          "repeater": "{{ blog.metafields.custom.sdg2.value }}",
+          "settings": {
+            "image": "{{ block.repeater.logo.value }}",
+            "title": "{{ block.repeater.naam.value }}",
+            "text": "<p>{{ block.repeater.omschrijving | metafield_tag }}<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14745248858304__3a464835-965b-4a1c-9dec-2be9d1118886-167999822304f8f024-0"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "50bfb41b-60d4-44ba-84fb-7fef03ae1eb5",
     "94f41474-e702-4485-9c9e-b97f244143c3",
     "4182d282-06cf-4cb3-9531-05000b4972ad",
-    "main"
+    "main",
+    "3a464835-965b-4a1c-9dec-2be9d1118886"
   ]
 }
