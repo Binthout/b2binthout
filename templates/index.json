@@ -151,9 +151,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/schuren-tumziki.jpg",
             "caption": "Partners & Samenwerking",
-            "heading": "Kleine houtproducten in grote oplage!",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Samenwerken?",
+            "heading": "Wil jij met ons samenwerken?",
+            "text": "<p>Hoe meer werk - Hoe meer impact. En daar hebben we jouw hulp bij nodig. We zijn continu op zoek naar nieuwe samenwerkingen voor langere termijn.<\/p>",
+            "button_label": "Zie jij kansen?",
             "button_link": "shopify:\/\/pages\/contact"
           }
         },
