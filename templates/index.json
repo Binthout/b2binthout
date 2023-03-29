@@ -21,7 +21,7 @@
         "template--14745249218752__74d8427f-7f01-4e8e-9a05-86e4128cfdca-1680096119440b4ee4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.<\/p>",
+            "text": "Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.",
             "text_style": "body"
           }
         },
@@ -51,7 +51,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 36,
       }
     },
     "394da00c-6c16-4167-95bb-6ff1f80dd576": {
