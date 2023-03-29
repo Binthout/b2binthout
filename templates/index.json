@@ -1,7 +1,62 @@
 {
   "sections": {
+    "74d8427f-7f01-4e8e-9a05-86e4128cfdca": {
+      "type": "image-with-text",
+      "blocks": {
+        "91d69ba8-59b6-4fef-9a01-f498fd0251ae": {
+          "type": "caption",
+          "settings": {
+            "caption": "Wij zijn social Enterprise",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--14745249218752__74d8427f-7f01-4e8e-9a05-86e4128cfdca-1680096119440b4ee4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Impact door waardevol werk met Nederlands hout!",
+            "heading_size": "h1"
+          }
+        },
+        "template--14745249218752__74d8427f-7f01-4e8e-9a05-86e4128cfdca-1680096119440b4ee4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14745249218752__74d8427f-7f01-4e8e-9a05-86e4128cfdca-1680096119440b4ee4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Naar de producten",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "91d69ba8-59b6-4fef-9a01-f498fd0251ae",
+        "template--14745249218752__74d8427f-7f01-4e8e-9a05-86e4128cfdca-1680096119440b4ee4-0",
+        "template--14745249218752__74d8427f-7f01-4e8e-9a05-86e4128cfdca-1680096119440b4ee4-1",
+        "template--14745249218752__74d8427f-7f01-4e8e-9a05-86e4128cfdca-1680096119440b4ee4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/houtwerkplaats-binthout_b6329ace-57af-4347-8e60-7986d4963e84.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "394da00c-6c16-4167-95bb-6ff1f80dd576": {
       "type": "multirow",
+      "disabled": true,
       "blocks": {
         "template--14745249218752__394da00c-6c16-4167-95bb-6ff1f80dd576-16799191783bd73a1a-0": {
           "type": "row",
@@ -138,6 +193,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 36
@@ -272,6 +328,7 @@
     }
   },
   "order": [
+    "74d8427f-7f01-4e8e-9a05-86e4128cfdca",
     "394da00c-6c16-4167-95bb-6ff1f80dd576",
     "multicolumn",
     "22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1",
