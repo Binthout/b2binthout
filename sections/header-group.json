@@ -10,7 +10,7 @@
           "settings": {
             "text": "Voor lampen & tafels ga naar Binthout.nl",
             "text_alignment": "center",
-            "color_scheme": "background-2",
+            "color_scheme": "inverse",
             "link": "https:\/\/www.binthout.nl"
           }
         }
