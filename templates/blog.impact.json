@@ -2,6 +2,7 @@
   "sections": {
     "50bfb41b-60d4-44ba-84fb-7fef03ae1eb5": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--14745248858304__50bfb41b-60d4-44ba-84fb-7fef03ae1eb5-16799123884bec702f-0": {
           "type": "heading",
@@ -66,7 +67,7 @@
       "type": "main-blog",
       "disabled": true,
       "settings": {
-        "layout": "collage",
+        "layout": "grid",
         "show_image": true,
         "image_height": "large",
         "show_date": false,
