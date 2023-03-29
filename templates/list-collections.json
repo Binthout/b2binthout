@@ -68,59 +68,6 @@
         "padding_bottom": 36
       }
     },
-    "8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4": {
-      "type": "image-with-text",
-      "blocks": {
-        "44fbbbaa-dc5f-46c3-9133-241fdac4dfa6": {
-          "type": "caption",
-          "settings": {
-            "caption": "Meetbare impact",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Impactrapport 2021",
-            "heading_size": "h1"
-          }
-        },
-        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Onze impact is meetbaar in uren werkgelegenheid en co2 opslag. Wil je weten wat we afgelopen jaar hebben gedaan? Lees dan ons laatste impactrapport.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Lees meer",
-            "button_link": "shopify:\/\/blogs\/impact\/impactrapport-2021"
-          }
-        }
-      },
-      "block_order": [
-        "44fbbbaa-dc5f-46c3-9133-241fdac4dfa6",
-        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-0",
-        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-1",
-        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/productie-binthout.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "b27880e1-a552-412a-b975-8e40895011b7": {
       "type": "multirow",
       "blocks": {
@@ -179,6 +126,60 @@
         "padding_bottom": 36
       }
     },
+    "8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4": {
+      "type": "image-with-text",
+      "blocks": {
+        "44fbbbaa-dc5f-46c3-9133-241fdac4dfa6": {
+          "type": "caption",
+          "settings": {
+            "caption": "Meetbare impact",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Impactrapport 2021",
+            "heading_size": "h1"
+          }
+        },
+        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Onze impact is meetbaar in uren werkgelegenheid en co2 opslag. Wil je weten wat we afgelopen jaar hebben gedaan? Lees dan ons laatste impactrapport.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Lees meer",
+            "button_link": "shopify:\/\/blogs\/impact\/impactrapport-2021"
+          }
+        }
+      },
+      "block_order": [
+        "44fbbbaa-dc5f-46c3-9133-241fdac4dfa6",
+        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-0",
+        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-1",
+        "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/productie-binthout.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-list-collections",
       "disabled": true,
@@ -194,8 +195,8 @@
   "order": [
     "022f8f70-fae2-436f-93b5-29fc8fcb96ca",
     "68ffefc7-41ed-4cd9-8274-4da1c3cbd19b",
-    "8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4",
     "b27880e1-a552-412a-b975-8e40895011b7",
+    "8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4",
     "main"
   ]
 }
