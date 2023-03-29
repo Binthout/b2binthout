@@ -119,6 +119,63 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "d1700c7e-28d7-4647-ba5d-80d7b84d55f5": {
+      "type": "image-with-text",
+      "blocks": {
+        "e50841b6-71a9-4c3c-bf14-b8fb342cadce": {
+          "type": "caption",
+          "source": "{{ blog.metafields.custom.impact.value }}",
+          "settings": {
+            "caption": "{{ blog.metafields.custom.impact.value.subtekst.value }}",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--14745248858304__d1700c7e-28d7-4647-ba5d-80d7b84d55f5-168007703766be8e5b-0": {
+          "type": "heading",
+          "source": "{{ blog.metafields.custom.impact.value }}",
+          "settings": {
+            "heading": "{{ blog.metafields.custom.impact.value.koptekst.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "template--14745248858304__d1700c7e-28d7-4647-ba5d-80d7b84d55f5-168007703766be8e5b-1": {
+          "type": "text",
+          "source": "{{ blog.metafields.custom.impact.value }}",
+          "settings": {
+            "text": "<p>{{ blog.metafields.custom.impact.value.tekst | metafield_tag }}<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14745248858304__d1700c7e-28d7-4647-ba5d-80d7b84d55f5-168007703766be8e5b-2": {
+          "type": "button",
+          "source": "{{ blog.metafields.custom.impact.value }}",
+          "settings": {
+            "button_label": "{{ blog.metafields.custom.impact.value.knoptekst.value }}",
+            "button_link": "{{ blog.metafields.custom.impact.value.link.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "e50841b6-71a9-4c3c-bf14-b8fb342cadce",
+        "template--14745248858304__d1700c7e-28d7-4647-ba5d-80d7b84d55f5-168007703766be8e5b-0",
+        "template--14745248858304__d1700c7e-28d7-4647-ba5d-80d7b84d55f5-168007703766be8e5b-1",
+        "template--14745248858304__d1700c7e-28d7-4647-ba5d-80d7b84d55f5-168007703766be8e5b-2"
+      ],
+      "settings": {
+        "image": "{{ blog.metafields.custom.impact.value.afbeelding.value }}",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -126,6 +183,7 @@
     "94f41474-e702-4485-9c9e-b97f244143c3",
     "3a464835-965b-4a1c-9dec-2be9d1118886",
     "4182d282-06cf-4cb3-9531-05000b4972ad",
-    "main"
+    "main",
+    "d1700c7e-28d7-4647-ba5d-80d7b84d55f5"
   ]
 }
