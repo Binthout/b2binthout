@@ -5,34 +5,33 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
-          "type": "link_list",
-          "disabled": true,
-          "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "disabled": true,
-          "settings": {
-            "heading": "Info",
-            "menu": "footer"
-          }
-        },
         "footer-2": {
           "type": "text",
           "settings": {
             "heading": "Impact op Mens & Milieu",
             "subtext": "<p>Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Handgemaakt en geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.<\/p>"
           }
+        },
+        "footer-0": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Producten",
+            "menu": "main-menu"
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Partners & Maatwerk",
+            "menu": "footer"
+          }
         }
       },
       "block_order": [
+        "footer-2",
         "footer-0",
-        "footer-1",
-        "footer-2"
+        "footer-1"
       ],
       "settings": {
         "color_scheme": "background-2",
