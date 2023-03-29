@@ -5,6 +5,28 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Partners & Maatwerk",
+            "menu": "footermenu-2"
+          }
+        },
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Producten",
+            "menu": "footermenu"
+          }
+        },
+        "f8611da9-c52d-4a65-ba77-3b34bf140462": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "alignment": "center"
+          }
+        },
         "footer-2": {
           "type": "text",
           "settings": {
@@ -12,33 +34,27 @@
             "subtext": "<p>Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Handgemaakt en geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.<\/p>"
           }
         },
-        "footer-0": {
-          "type": "link_list",
-          "disabled": true,
+        "6b1a5801-89d1-4619-911e-c6facac70610": {
+          "type": "text",
           "settings": {
-            "heading": "Producten",
-            "menu": "main-menu"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Partners & Maatwerk",
-            "menu": "footer"
+            "heading": "Contactgegevens",
+            "subtext": "<p>Binthout B.V.<br\/>Herfterlaan 2c<br\/>8024 PJ, Zwolle<br\/><a href=\"mailto:info@binthout.nl\" target=\"_blank\" title=\"Mail naar Binthout in Zwolle\">info@binthout.nl <\/a><br\/><a href=\"tel:+31382060016\" target=\"_blank\" title=\"Bel met Binthout Zwolle\">038-2060016<\/a><\/p>"
           }
         }
       },
       "block_order": [
-        "footer-2",
+        "footer-1",
         "footer-0",
-        "footer-1"
+        "f8611da9-c52d-4a65-ba77-3b34bf140462",
+        "footer-2",
+        "6b1a5801-89d1-4619-911e-c6facac70610"
       ],
       "settings": {
         "color_scheme": "background-2",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "We sturen af en toe een mailtje!",
         "enable_follow_on_shop": false,
-        "show_social": true,
+        "show_social": false,
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
