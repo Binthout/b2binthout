@@ -5,6 +5,13 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "6b1a5801-89d1-4619-911e-c6facac70610": {
+          "type": "text",
+          "settings": {
+            "heading": "Contactgegevens",
+            "subtext": "<p>Binthout B.V.<br\/>Herfterlaan 2c<br\/>8024 PJ, Zwolle<br\/><a href=\"mailto:info@binthout.nl\" target=\"_blank\" title=\"Mail naar Binthout in Zwolle\">info@binthout.nl <\/a><br\/><a href=\"tel:+31382060016\" target=\"_blank\" title=\"Bel met Binthout Zwolle\">038-2060016<\/a><\/p>"
+          }
+        },
         "footer-1": {
           "type": "link_list",
           "settings": {
@@ -19,13 +26,6 @@
             "menu": "footermenu"
           }
         },
-        "6b1a5801-89d1-4619-911e-c6facac70610": {
-          "type": "text",
-          "settings": {
-            "heading": "Contactgegevens",
-            "subtext": "<p>Binthout B.V.<br\/>Herfterlaan 2c<br\/>8024 PJ, Zwolle<br\/><a href=\"mailto:info@binthout.nl\" target=\"_blank\" title=\"Mail naar Binthout in Zwolle\">info@binthout.nl <\/a><br\/><a href=\"tel:+31382060016\" target=\"_blank\" title=\"Bel met Binthout Zwolle\">038-2060016<\/a><\/p>"
-          }
-        },
         "footer-2": {
           "type": "text",
           "settings": {
@@ -35,9 +35,9 @@
         }
       },
       "block_order": [
+        "6b1a5801-89d1-4619-911e-c6facac70610",
         "footer-1",
         "footer-0",
-        "6b1a5801-89d1-4619-911e-c6facac70610",
         "footer-2"
       ],
       "settings": {
