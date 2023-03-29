@@ -71,6 +71,14 @@
     "8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4": {
       "type": "image-with-text",
       "blocks": {
+        "44fbbbaa-dc5f-46c3-9133-241fdac4dfa6": {
+          "type": "caption",
+          "settings": {
+            "caption": "Meetbare impact",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-0": {
           "type": "heading",
           "settings": {
@@ -94,6 +102,7 @@
         }
       },
       "block_order": [
+        "44fbbbaa-dc5f-46c3-9133-241fdac4dfa6",
         "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-0",
         "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-1",
         "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-2"
@@ -101,7 +110,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/productie-binthout.jpg",
         "height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
