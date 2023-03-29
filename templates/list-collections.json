@@ -88,8 +88,8 @@
         "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Lees meer",
+            "button_link": "shopify:\/\/blogs\/impact\/impactrapport-2021"
           }
         }
       },
