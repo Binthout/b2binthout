@@ -8,50 +8,6 @@
         "padding_bottom": 28
       }
     },
-    "b6458594-ba54-4248-86c7-17005f427540": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--14745248792768__b6458594-ba54-4248-86c7-17005f427540-1679912587b8c36d5d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Passie voor hout, mens & design<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--14745248792768__b6458594-ba54-4248-86c7-17005f427540-1679912587b8c36d5d-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Daar waar deze drie kenwaarden samenkomen; worden wij gelukkig. <\/p>"
-          }
-        },
-        "template--14745248792768__b6458594-ba54-4248-86c7-17005f427540-1679912587b8c36d5d-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14745248792768__b6458594-ba54-4248-86c7-17005f427540-1679912587b8c36d5d-0",
-        "template--14745248792768__b6458594-ba54-4248-86c7-17005f427540-1679912587b8c36d5d-1",
-        "template--14745248792768__b6458594-ba54-4248-86c7-17005f427540-1679912587b8c36d5d-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "2cdad741-289c-487e-8af9-c8c88d2a0fa4": {
       "type": "multirow",
       "blocks": {
@@ -59,6 +15,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/t_Harde_Nieuw_Pand001RP_kopie_2240x1504_5af3a6b1-58c8-4b96-a46a-c5e881004b29.jpg",
+            "image_link": "",
             "caption": "Projectvoorbeeld",
             "heading": "Essentaksterfte Zwolle",
             "text": "<p>Deze entree van Salverda hangt vol met maar liefst 7 kilometer Zwols essenhout afkomstig uit de Essentaksterfte. Niet versnipperd en verbrand, maar circulair inzet van Nederlands hout!<\/p>",
@@ -70,6 +27,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/lasersnijden-binthout-1.jpg",
+            "image_link": "",
             "caption": "Gebruik van de Nieuwste technieken",
             "heading": "Lasersnijden van hout",
             "text": "<p>Een van onze expertises is het lasersnijden & graveren van hout. Voor onze B2B klanten bieden we productie hierin ook los aan.<\/p>",
@@ -81,6 +39,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/zwolsessen_1484x1024_422d0b39-1a04-448b-a1cd-f8804a58a83b.jpg",
+            "image_link": "",
             "caption": "Massief Nederlands hout",
             "heading": "Grote voorraad NL hout",
             "text": "<p>We hebben een grote voorraad Massief Nederlands hout, waardoor we snel kunnen schakelen in projecten. Teven werken we samen met  Staatsbosbeheer, waardoor we bij zeer grote bestellingen ook kunnen voldoen. Een groot deel van ons hout is ook FSC 100% gecertificeerd.<\/p>",
@@ -172,6 +131,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "inverse",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -180,7 +140,6 @@
   },
   "order": [
     "main",
-    "b6458594-ba54-4248-86c7-17005f427540",
     "2cdad741-289c-487e-8af9-c8c88d2a0fa4",
     "42a64660-18a5-4a49-9bcd-fb97dabb0fd2",
     "2f0d5adc-8525-4ecd-9035-95e0e1e4ee48"
