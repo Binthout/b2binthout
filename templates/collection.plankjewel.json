@@ -6,7 +6,7 @@
         "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Houten snijplanken; een duurzaam cadeau",
             "heading_size": "h1"
           }
         },
@@ -31,13 +31,14 @@
         "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/marqt_snijplank_borrel.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
