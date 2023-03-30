@@ -42,10 +42,11 @@
             | image_url: width: 1500
             | image_tag: loading: 'eager', sizes: sizes, widths: widths
           }}
+          {%- if block.settings.image_link != blank -%}<a href ="{{block.settings.image_link}}"></a>{%- else -%}{%- endif -%}              
+
         {%- else -%}
           {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
         {%- endif -%}
-        {%- if block.settings.image_link != blank -%}<a href ="{{block.settings.image_link}}"></a>{%- else -%}{%- endif -%}              
       </div>
     </div>
     <div class="image-with-text__text-item grid__item">
