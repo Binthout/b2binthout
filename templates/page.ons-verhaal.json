@@ -8,6 +8,67 @@
         "padding_bottom": 28
       }
     },
+    "1557e34f-fdf1-458f-be8c-e525bdf780cf": {
+      "type": "multirow",
+      "blocks": {
+        "template--18486229107020__1557e34f-fdf1-458f-be8c-e525bdf780cf-16801851471c9018d8-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/schuren-binthout-2_22261f51-9d2a-4d45-997b-7cdfec126cf0.jpg",
+            "image_link": "",
+            "caption": "Duurzaam & circulaire productie",
+            "heading": "Maak het beste product!",
+            "text": "<p>De grootste verantwoordelijkheid die we als producent kunnen nemen is; dat we producten maken die vele jaren mee gaan. Onze producten moeten een duidelijke functionaliteit hebben, hersteld & gerepareerd kunnen worden en bovenal een lange levensduur hebben.<\/p>",
+            "button_label": "Naar de producten",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        },
+        "template--18486229107020__1557e34f-fdf1-458f-be8c-e525bdf780cf-16801851471c9018d8-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zwolsessen_1484x1024_422d0b39-1a04-448b-a1cd-f8804a58a83b.jpg",
+            "image_link": "",
+            "caption": "Van puur Nederlands hout",
+            "heading": "Red hout van de versnipperaar!",
+            "text": "<p>Niet meer versnipperen en verbranden, maar een circulaire economie gebaseerd op hernieuwbare grondstoffen.<\/p><p>Onze producten bestaan alleen uit aantoonbaar duurzaam hout met FSC® keurmerk, lokaal Stadshout of FSC® recycled.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--18486229107020__1557e34f-fdf1-458f-be8c-e525bdf780cf-16801851471c9018d8-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/werkplaats-binthout-zagen.jpg",
+            "image_link": "",
+            "caption": "Sociaal geproduceerd",
+            "heading": "Zorg voor waardevol werk",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Bekijk onze impact",
+            "button_link": "shopify:\/\/blogs\/impact"
+          }
+        }
+      },
+      "block_order": [
+        "template--18486229107020__1557e34f-fdf1-458f-be8c-e525bdf780cf-16801851471c9018d8-0",
+        "template--18486229107020__1557e34f-fdf1-458f-be8c-e525bdf780cf-16801851471c9018d8-1",
+        "template--18486229107020__1557e34f-fdf1-458f-be8c-e525bdf780cf-16801851471c9018d8-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "5c774417-c690-40e1-bfbb-eb9d0f7a49ed": {
       "type": "image-with-text",
       "blocks": {
@@ -65,6 +126,7 @@
   },
   "order": [
     "main",
+    "1557e34f-fdf1-458f-be8c-e525bdf780cf",
     "5c774417-c690-40e1-bfbb-eb9d0f7a49ed"
   ]
 }
