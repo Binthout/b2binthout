@@ -22,7 +22,6 @@
         {% if section.settings.height == 'adapt' and section.settings.image != blank %}
           style="padding-bottom: {{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100 }}%;"
         {% endif %}
-        {%- if block.settings.image_link != blank -%}<a href ="{{block.settings.image_link}}"></a>{%- else -%}{%- endif -%}              
       >
         {%- if section.settings.image != blank -%}
           {%- if section.settings.image_behavior == 'ambient' -%}
@@ -107,11 +106,6 @@
       "id": "image",
       "label": "t:sections.image-with-text.settings.image.label"
     },
-    {
-      "type": "url",
-      "id": "image_link",
-      "label": "Image link"
-      },
     {
       "type": "select",
       "id": "height",
