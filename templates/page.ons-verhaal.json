@@ -16,10 +16,65 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "5c774417-c690-40e1-bfbb-eb9d0f7a49ed": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18486229107020__5c774417-c690-40e1-bfbb-eb9d0f7a49ed-1680184761bc6634fe-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sinds 2013 samen de kracht achter Binthout. Vanaf 2022 apart verder.",
+            "heading_size": "h1"
+          }
+        },
+        "template--18486229107020__5c774417-c690-40e1-bfbb-eb9d0f7a49ed-1680184761bc6634fe-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sociaal ondernemers <a href=\"https:\/\/www.linkedin.com\/in\/karst-klein-37846620\" target=\"_blank\" title=\"Karst Klein\">Karst Klein<\/a> en <a href=\"https:\/\/www.linkedin.com\/in\/corwobma\" target=\"_blank\" title=\"Cor Wobma\">Cor Wobma<\/a> starten in maart 2013 Binthout vanuit een hart voor hout, mens en design.<\/p><p>Van boom tot eindproduct creëren zij diverse werkzaamheden die passen bij de wensen en behoeften van mensen met een zekere afstand tot de reguliere arbeidsmarkt. Hierin werken ze samen met verschillende stichtingen.<\/p><h2>Winnaar Social Impact Award<\/h2><p>De onderneming groeit en bloeit en verhuist in 2017 naar \"<a href=\"http:\/\/www.buitengoeddeherfte.nl\/\" target=\"_blank\" title=\"Buitengoed de herfte Binthout Zwolle\">Buitengoed de Herfte<\/a>\" en wordt in datzelfde jaar winnaar van de Social Impact Award.<\/p><p>Door het sluiten van de houtzagerij eind 2020 ontstaat er een zoektocht naar een geschikte plek om de zaagwerkzaamheden opnieuw op te bouwen. Tijdens deze zoektocht komt Karst een te koop staande zorgboerderij in Dalfsen tegen en een lang gekoesterde droom wordt in mei 2021 werkelijkheid. Karst neemt de biologische en tevens zorg georiënteerde boerderij genaamd “<a href=\"https:\/\/www.landjuweeldehoeven.nl\/\" target=\"_blank\" title=\"Landjuweel de Hoeven\">Landjuweel de Hoeven”<\/a> over.<\/p><h2>Houtproducten met grote Impact<\/h2><p>De verschuiving van Binthout naar kleine producten met een grote impact past heel goed bij Cor als ontwerper en vanaf 1 januari 2022 neemt Cor dan ook het roer van Binthout volledig over. Samen kijken ze terug op bijna negen prachtige jaren van samenwerking en wordt er ook met verlangen uitgekeken naar wat de komende jaren voor beide ondernemers gaat brengen.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18486229107020__5c774417-c690-40e1-bfbb-eb9d0f7a49ed-1680184761bc6634fe-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "c244f0de-80ef-43bc-87bf-8633690e7cd7": {
+          "type": "caption",
+          "settings": {
+            "caption": "FOTO: RICK MEINEN (KARST LINKS, COR RECHTS)",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--18486229107020__5c774417-c690-40e1-bfbb-eb9d0f7a49ed-1680184761bc6634fe-0",
+        "template--18486229107020__5c774417-c690-40e1-bfbb-eb9d0f7a49ed-1680184761bc6634fe-1",
+        "template--18486229107020__5c774417-c690-40e1-bfbb-eb9d0f7a49ed-1680184761bc6634fe-2",
+        "c244f0de-80ef-43bc-87bf-8633690e7cd7"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/oprichters-binthout.jpg",
+        "height": "large",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "42a64660-18a5-4a49-9bcd-fb97dabb0fd2"
+    "42a64660-18a5-4a49-9bcd-fb97dabb0fd2",
+    "5c774417-c690-40e1-bfbb-eb9d0f7a49ed"
   ]
 }
