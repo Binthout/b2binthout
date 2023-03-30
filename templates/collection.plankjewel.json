@@ -2,7 +2,6 @@
   "sections": {
     "d6a87a32-0915-4ab6-992b-5c6098fc8d20": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-0": {
           "type": "heading",
@@ -21,8 +20,8 @@
         "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Maatwerk",
+            "button_link": "shopify:\/\/pages\/contact"
           }
         }
       },
