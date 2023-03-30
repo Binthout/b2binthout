@@ -70,6 +70,7 @@
               {%- else -%}
                 {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
               {%- endif -%}
+              {%- if block.settings.image_link != blank -%}<a href ="{{block.settings.image_link}}"></a>{%- else -%}{%- endif -%}
             </div>
           </div>
           <div class="image-with-text__text-item grid__item">
@@ -393,6 +394,11 @@
           "id": "image",
           "label": "t:sections.multirow.blocks.row.settings.image.label"
         },
+        {
+          "type": "url",
+          "id": "image_link",
+          "label": "Image link"
+          },
         {
           "type": "text",
           "id": "caption",
