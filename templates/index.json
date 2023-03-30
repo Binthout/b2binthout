@@ -41,7 +41,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/houtwerkplaats-binthout-sociaal.jpg",
-        "image_link": "shopify:\/\/collections",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -94,6 +93,16 @@
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
+        "56d95b7a-b852-440c-ae02-51f71ac81a77": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-socialenterprise.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column1": {
           "type": "column",
           "settings": {
@@ -116,6 +125,7 @@
         },
         "column3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Impactpartners",
             "text": "<p>Dankzij <a href=\"https:\/\/www.rabobank.nl\/over-ons\/rabofoundation\" target=\"_blank\" title=\"Rabobank Foundation Binthout hout\">Rabobank Foundation<\/a> & <a href=\"https:\/\/www.doen.nl\/\" target=\"_blank\" title=\"Stichting DOEN binthout design\">Vriendenloterij FONDS<\/a> kunnen wij impact blijven maken!<\/p>",
@@ -125,6 +135,7 @@
         }
       },
       "block_order": [
+        "56d95b7a-b852-440c-ae02-51f71ac81a77",
         "column1",
         "column2",
         "column3"
@@ -143,7 +154,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1": {
@@ -188,7 +199,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
-        "image_link": "",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
