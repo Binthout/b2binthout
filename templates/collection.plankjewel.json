@@ -1,0 +1,201 @@
+{
+  "sections": {
+    "d6a87a32-0915-4ab6-992b-5c6098fc8d20": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Houten snijplanken; een duurzaam cadeau",
+            "heading_size": "h1"
+          }
+        },
+        "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alvast een plankjewel! Wij maken unieke snijplanken van Hollands hout & Stadshout met jouw logo erop. Alleen samen maken we impact!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Maatwerk",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-0",
+        "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-1",
+        "template--18485650850124__d6a87a32-0915-4ab6-992b-5c6098fc8d20-1680175082e122bfd8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/marqt_snijplank_borrel.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "430e68e3-013c-4177-b7b9-988e863e2247": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "{{ collection }}",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8bd14b0a-ecce-458f-b110-679f0a7afbf7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18485650850124__8bd14b0a-ecce-458f-b110-679f0a7afbf7-16801751086701fc45-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/marqt.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18485650850124__8bd14b0a-ecce-458f-b110-679f0a7afbf7-16801751086701fc45-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rova.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18485650850124__8bd14b0a-ecce-458f-b110-679f0a7afbf7-16801751086701fc45-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cycloon.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "97a58fd3-44d8-49da-89c6-26b55cab7a9a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wwf.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6499c737-2132-4f1b-bc4b-2c7a7c24553f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bruynzeel.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c7983280-626a-430c-976c-201e9d67f85d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/staatsbosbeheer.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18485650850124__8bd14b0a-ecce-458f-b110-679f0a7afbf7-16801751086701fc45-0",
+        "template--18485650850124__8bd14b0a-ecce-458f-b110-679f0a7afbf7-16801751086701fc45-1",
+        "template--18485650850124__8bd14b0a-ecce-458f-b110-679f0a7afbf7-16801751086701fc45-2",
+        "97a58fd3-44d8-49da-89c6-26b55cab7a9a",
+        "6499c737-2132-4f1b-bc4b-2c7a7c24553f",
+        "c7983280-626a-430c-976c-201e9d67f85d"
+      ],
+      "settings": {
+        "title": "Deze klanten gingen je voor",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    }
+  },
+  "order": [
+    "d6a87a32-0915-4ab6-992b-5c6098fc8d20",
+    "430e68e3-013c-4177-b7b9-988e863e2247",
+    "product-grid",
+    "8bd14b0a-ecce-458f-b110-679f0a7afbf7",
+    "banner"
+  ]
+}
