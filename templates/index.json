@@ -41,6 +41,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/houtwerkplaats-binthout-sociaal.jpg",
+        "image_link": "shopify:\/\/collections",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -187,6 +188,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
+        "image_link": "",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
