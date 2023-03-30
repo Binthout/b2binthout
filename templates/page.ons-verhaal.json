@@ -69,6 +69,62 @@
         "padding_bottom": 36
       }
     },
+    "5d11403d-1fac-4b04-98b0-2610e73ccb29": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18486229107020__5d11403d-1fac-4b04-98b0-2610e73ccb29-16801854414c333ffc-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-socialenterprise.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18486229107020__5d11403d-1fac-4b04-98b0-2610e73ccb29-16801854414c333ffc-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_VL_Fonds_RGB_61496140-f9e0-423a-bb81-0250e3a3621a.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18486229107020__5d11403d-1fac-4b04-98b0-2610e73ccb29-16801854414c333ffc-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_rabobankfoundation.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18486229107020__5d11403d-1fac-4b04-98b0-2610e73ccb29-16801854414c333ffc-0",
+        "template--18486229107020__5d11403d-1fac-4b04-98b0-2610e73ccb29-16801854414c333ffc-1",
+        "template--18486229107020__5d11403d-1fac-4b04-98b0-2610e73ccb29-16801854414c333ffc-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "5c774417-c690-40e1-bfbb-eb9d0f7a49ed": {
       "type": "image-with-text",
       "blocks": {
@@ -127,6 +183,7 @@
   "order": [
     "main",
     "1557e34f-fdf1-458f-be8c-e525bdf780cf",
+    "5d11403d-1fac-4b04-98b0-2610e73ccb29",
     "5c774417-c690-40e1-bfbb-eb9d0f7a49ed"
   ]
 }
