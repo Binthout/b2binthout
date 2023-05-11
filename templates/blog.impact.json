@@ -63,6 +63,36 @@
         "padding_bottom": 36
       }
     },
+    "c61f41de-b775-417d-b8f2-4605fcf68c80": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18480386376012__c61f41de-b775-417d-b8f2-4605fcf68c80-1683796933419fd750-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meetbare Impact",
+            "heading_size": "h1"
+          }
+        },
+        "template--18480386376012__c61f41de-b775-417d-b8f2-4605fcf68c80-1683796933419fd750-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sinds de start van Binthout in 2013 zijn we al bezig met het meetbaar maken van de opslag van co2 in onze houtproducten en de uren aan werkgelegenheid die we creëren. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18480386376012__c61f41de-b775-417d-b8f2-4605fcf68c80-1683796933419fd750-0",
+        "template--18480386376012__c61f41de-b775-417d-b8f2-4605fcf68c80-1683796933419fd750-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-blog",
       "disabled": true,
@@ -125,6 +155,7 @@
   "order": [
     "50bfb41b-60d4-44ba-84fb-7fef03ae1eb5",
     "94f41474-e702-4485-9c9e-b97f244143c3",
+    "c61f41de-b775-417d-b8f2-4605fcf68c80",
     "main",
     "3a464835-965b-4a1c-9dec-2be9d1118886",
     "4182d282-06cf-4cb3-9531-05000b4972ad"
