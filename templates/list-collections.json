@@ -7,6 +7,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/Bijenhotel-met-logo.jpg",
+            "image_link": "",
             "caption": "Bestseller in de lente!",
             "heading": "Bijenhotel met logo",
             "text": "<p>Jouw logo komt op het bijenhotel te staan. In een klein doosje verpakt met een <span style=\"text-decoration:underline\">houten spijker<\/span> er bij! Vanaf 10 stuks te bestellen.  De bijenhotels worden van diverse houtsoorten gemaakt.<\/p>",
@@ -41,6 +42,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/Snijplank-eiken-eigenlogo.jpg",
+            "image_link": "",
             "caption": "Gepersonaliseerd & Uniek",
             "heading": "Zeg het met een PLANKJEWEL",
             "text": "<p>Met Plankjewel (vanaf 25 stuks) geef je een unieke snijplank van FSC® 100% Nederlands hout met je eigen tekst of logo erop gegraveerd. Grote orders vormen voor ons geen enkel probleem.<\/p>",
@@ -75,6 +77,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/houten_sleutelhanger_druppel_uw_logo.jpg",
+            "image_link": "",
             "caption": "Klein & sterk massief hout",
             "heading": "Sleutelhangers op maat",
             "text": "<p>Massief houten sleutelhangers met jouw logo. In diverse vormen en uitvoeringen. Vanaf 100stuks te bestellen.<\/p>",
@@ -86,6 +89,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/Kratje_SB_eiken_voor.jpg",
+            "image_link": "",
             "caption": "Stevige Hollandse kratjes",
             "heading": "Eikenhouten kratjes",
             "text": "<p>Een massief eiken kratje. Leuk om te maken, te geven en in grote aantallen te produceren. Vanaf 10 stuks verkrijgbaar.<\/p>",
@@ -97,6 +101,7 @@
           "type": "row",
           "disabled": true,
           "settings": {
+            "image_link": "",
             "caption": "Klemborden van hout",
             "heading": "Horeca producten",
             "text": "<p>Van klemborden, tot qr-code blokken & meer. <\/p>",
@@ -140,7 +145,7 @@
         "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Impactrapport 2021",
+            "heading": "Impactrapport 2022",
             "heading_size": "h1"
           }
         },
@@ -155,7 +160,7 @@
           "type": "button",
           "settings": {
             "button_label": "Lees meer",
-            "button_link": "shopify:\/\/blogs\/impact\/impactrapport-2021"
+            "button_link": "shopify:\/\/blogs\/impact\/impactrapport-2022"
           }
         }
       },
@@ -166,7 +171,7 @@
         "template--14745249022144__8a9ab3bb-4c2a-43b7-97ce-b17bf6902ec4-16800762951247f2c6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/productie-binthout.jpg",
+        "image": "shopify:\/\/shop_images\/impactrapport-22.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
