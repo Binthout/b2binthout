@@ -150,6 +150,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "f5c54d58-dd85-44f7-b12b-bca4020f29b3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18480386376012__f5c54d58-dd85-44f7-b12b-bca4020f29b3-1685612158b33256c3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dagbesteding gemeente Zwolle",
+            "heading_size": "h1"
+          }
+        },
+        "template--18480386376012__f5c54d58-dd85-44f7-b12b-bca4020f29b3-1685612158b33256c3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Met een dagbestedingsplek ben je actief, heb je een dagritme en kom je in contact met andere mensen. Bij Binthout maken we producten van hout en leren we houtbewerking vaardigheden aan. Binthout is gecontracteerd aanbieder van Dagbesteding WMO voor de gemeente Zwolle.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18480386376012__f5c54d58-dd85-44f7-b12b-bca4020f29b3-1685612158b33256c3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Meer informatie",
+            "button_link": "mailto:frits@binthout.nl"
+          }
+        }
+      },
+      "block_order": [
+        "template--18480386376012__f5c54d58-dd85-44f7-b12b-bca4020f29b3-1685612158b33256c3-0",
+        "template--18480386376012__f5c54d58-dd85-44f7-b12b-bca4020f29b3-1685612158b33256c3-1",
+        "template--18480386376012__f5c54d58-dd85-44f7-b12b-bca4020f29b3-1685612158b33256c3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -158,6 +203,7 @@
     "c61f41de-b775-417d-b8f2-4605fcf68c80",
     "main",
     "3a464835-965b-4a1c-9dec-2be9d1118886",
-    "4182d282-06cf-4cb3-9531-05000b4972ad"
+    "4182d282-06cf-4cb3-9531-05000b4972ad",
+    "f5c54d58-dd85-44f7-b12b-bca4020f29b3"
   ]
 }
