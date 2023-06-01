@@ -7,57 +7,6 @@
         "padding_bottom": 36
       }
     },
-    "3ada6c66-8472-462b-986e-bad3c10f5224": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Dagbesteding gemeente Zwolle",
-            "heading_size": "h1"
-          }
-        },
-        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Goede dagen & perspectief<\/h2><p>Met een dagbestedingsplek ben je actief, heb je een dagritme en kom je in contact met andere mensen. Bij Binthout maken we producten van hout en leren we houtbewerking vaardigheden aan. Binthout is gecontracteerd aanbieder van Dagbesteding WMO voor de gemeente Zwolle per 1 oktober 2022. <\/p><p>Je kunt; als dit aansluit bij jouw talenten en wensen, bij Binthout terecht voor Dagbesteding.<\/p><h2>Klachtenregeling<\/h2><p>In zorgrelaties kan onvrede ontstaan die in sommige gevallen leidt tot een klacht. De meeste problemen kunnen gelukkig worden opgelost door een goed gesprek tussen zorgaanbieder en cliënt. Heeft u een klacht dan kunt u deze telefonisch, <a href=\"mailto:%20info@binthout.nl\" title=\"Klacht over zorg\">via mail<\/a>, schriftelijk of via het contactformulier op deze website kenbaar maken.<\/p>"
-          }
-        },
-        "78831bb1-ac13-46d8-af9c-32617368af01": {
-          "type": "caption",
-          "settings": {
-            "caption": "WMO gemeente Zwolle",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Meer informatie",
-            "button_link": "https:\/\/www.swtzwolle.nl\/dagbesteding",
-            "button_style_secondary": false,
-            "button_label_2": "Klachtenregeling",
-            "button_link_2": "shopify:\/\/pages\/klachtenregeling",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-0",
-        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-1",
-        "78831bb1-ac13-46d8-af9c-32617368af01",
-        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "form": {
       "type": "contact-form",
       "settings": {
@@ -125,12 +74,63 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "3ada6c66-8472-462b-986e-bad3c10f5224": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dagbesteding gemeente Zwolle",
+            "heading_size": "h1"
+          }
+        },
+        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Goede dagen & perspectief<\/h2><p>Met een dagbestedingsplek ben je actief, heb je een dagritme en kom je in contact met andere mensen. Bij Binthout maken we producten van hout en leren we houtbewerking vaardigheden aan. Binthout is gecontracteerd aanbieder van Dagbesteding WMO voor de gemeente Zwolle per 1 oktober 2022. <\/p><p>Je kunt; als dit aansluit bij jouw talenten en wensen, bij Binthout terecht voor Dagbesteding.<\/p><h2>Klachtenregeling<\/h2><p>In zorgrelaties kan onvrede ontstaan die in sommige gevallen leidt tot een klacht. De meeste problemen kunnen gelukkig worden opgelost door een goed gesprek tussen zorgaanbieder en cliënt. Heeft u een klacht dan kunt u deze telefonisch, <a href=\"mailto:%20info@binthout.nl\" title=\"Klacht over zorg\">via mail<\/a>, schriftelijk of via het contactformulier op deze website kenbaar maken.<\/p>"
+          }
+        },
+        "78831bb1-ac13-46d8-af9c-32617368af01": {
+          "type": "caption",
+          "settings": {
+            "caption": "WMO gemeente Zwolle",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Meer informatie",
+            "button_link": "https:\/\/www.swtzwolle.nl\/dagbesteding",
+            "button_style_secondary": false,
+            "button_label_2": "Klachtenregeling",
+            "button_link_2": "shopify:\/\/pages\/klachtenregeling",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-0",
+        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-1",
+        "78831bb1-ac13-46d8-af9c-32617368af01",
+        "template--14745248891072__3ada6c66-8472-462b-986e-bad3c10f5224-1685616157bca7d126-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "3ada6c66-8472-462b-986e-bad3c10f5224",
     "form",
-    "b3d785cd-5a7e-409d-bc03-6b73303da0ec"
+    "b3d785cd-5a7e-409d-bc03-6b73303da0ec",
+    "3ada6c66-8472-462b-986e-bad3c10f5224"
   ]
 }
