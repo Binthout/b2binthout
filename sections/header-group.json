@@ -9,8 +9,6 @@
           "type": "announcement",
           "settings": {
             "text": "Voor lampen & tafels ga naar Binthout.nl",
-            "text_alignment": "center",
-            "color_scheme": "background-2",
             "link": "https:\/\/www.binthout.nl"
           }
         }
@@ -19,6 +17,11 @@
         "announcement-bar-0"
       ],
       "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 5
       }
     },
     "header": {
@@ -30,6 +33,7 @@
         "sticky_header_type": "always",
         "show_line_separator": true,
         "color_scheme": "background-1",
+        "menu_color_scheme": "",
         "enable_country_selector": false,
         "enable_language_selector": false,
         "mobile_logo_position": "center",
