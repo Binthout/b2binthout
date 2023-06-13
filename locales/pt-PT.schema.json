@@ -474,7 +474,7 @@
         },
         "header__1": {
           "content": "Ícones de redes sociais",
-          "info": "Para apresentar as suas contas de redes sociais, associe-as nas [definições do tema](/editor?context=theme&category=social%20media)."
+          "info": "Para apresentar as suas contas de redes sociais, associe-as nas [definições do tema](\/editor?context=theme&category=social%20media)."
         },
         "header__2": {
           "content": "Comunicados"
@@ -877,7 +877,7 @@
         },
         "header__9": {
           "content": "Seguir no Shop",
-          "info": "O Shop Pay tem de estar ativo para os clientes poderem seguir a sua loja na aplicação Shop a partir da sua frente de loja. [Saber mais](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "O Shop Pay tem de estar ativo para os clientes poderem seguir a sua loja na aplicação Shop a partir da sua frente de loja. [Saber mais](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Ativar Seguir no Shop"
@@ -1626,7 +1626,7 @@
             },
             "show_gift_card_recipient": {
               "label": "Apresentar o formulário de informações do destinatário para cartões de oferta",
-              "info": "Permite aos compradores enviar cartões de oferta numa data agendada juntamente com uma mensagem pessoal. [Saber mais](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+              "info": "Permite aos compradores enviar cartões de oferta numa data agendada juntamente com uma mensagem pessoal. [Saber mais](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
             }
           },
           "name": "Botão de compra"
@@ -2483,7 +2483,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Mostrar botões dinâmicos de finalização da compra",
-              "info": "Utilizando os métodos de pagamento disponíveis na sua loja, os clientes poderão ver a sua opção preferida, como o PayPal ou Apple Pay. [Saber mais](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Utilizando os métodos de pagamento disponíveis na sua loja, os clientes poderão ver a sua opção preferida, como o PayPal ou Apple Pay. [Saber mais](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             }
           }
         },
