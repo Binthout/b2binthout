@@ -11,10 +11,18 @@
             "text": "Voor lampen & tafels ga naar Binthout.nl",
             "link": "https:\/\/www.binthout.nl"
           }
+        },
+        "13a16832-b91d-4d01-9119-c12be17c4650": {
+          "type": "announcement",
+          "settings": {
+            "text": "Bijenhotels op voorraad!",
+            "link": "shopify:\/\/products\/bijenhotel-maken"
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "13a16832-b91d-4d01-9119-c12be17c4650"
       ],
       "settings": {
         "color_scheme": "background-2",
