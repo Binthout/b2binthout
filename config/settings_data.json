@@ -168,7 +168,7 @@
             "type": "text",
             "settings": {
               "heading": "Impact op mens & Milieu",
-              "subtext": "<p>Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige designproducten van het hout. Handgemaakt en geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.<\/p>"
+              "subtext": "Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige designproducten van het hout. Handgemaakt en geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt."
             }
           },
           "footer-0": {
@@ -234,17 +234,63 @@
   "presets": {
     "Default": {
       "logo_width": 90,
-      "colors_solid_button_labels": "#ffffff",
-      "colors_accent_1": "#121212",
-      "gradient_accent_1": "",
-      "colors_accent_2": "#334fb4",
-      "gradient_accent_2": "f9f9f9",
-      "colors_text": "#1A1B18",
-      "colors_outline_button_labels": "#1A1B18",
-      "colors_background_1": "#faf1e9",
-      "gradient_background_1": "",
-      "colors_background_2": "#ffffff",
-      "gradient_background_2": "",
+      "color_schemes": {
+        "background-1": {
+          "settings": {
+            "background": "#faf1e9",
+            "background_gradient": "",
+            "text": "#1A1B18",
+            "button": "#1A1B18",
+            "button_label": "#FFFFFF",
+            "secondary_button_label": "#121212",
+            "shadow": "#121212"
+          }
+        },
+        "background-2": {
+          "settings": {
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text": "#1A1B18",
+            "button": "#1A1B18",
+            "button_label": "#F3F3F3",
+            "secondary_button_label": "#121212",
+            "shadow": "#121212"
+          }
+        },
+        "inverse": {
+          "settings": {
+            "background": "#242833",
+            "background_gradient": "",
+            "text": "#FFFFFF",
+            "button": "#FFFFFF",
+            "button_label": "#000000",
+            "secondary_button_label": "#FFFFFF",
+            "shadow": "#121212"
+          }
+        },
+        "accent-1": {
+          "settings": {
+            "background": "#121212",
+            "background_gradient": "",
+            "text": "#FFFFFF",
+            "button": "#FFFFFF",
+            "button_label": "#121212",
+            "secondary_button_label": "#FFFFFF",
+            "shadow": "#121212"
+          }
+        },
+        "accent-2": {
+          "settings": {
+            "background": "#334fb4",
+            "background_gradient": "f9f9f9",
+            "text": "#FFFFFF",
+            "button": "#FFFFFF",
+            "button_label": "#334FB4",
+            "secondary_button_label": "#FFFFFF",
+            "shadow": "#121212"
+          }
+        }
+      },
       "type_header_font": "playfair_display_n4",
       "heading_scale": 100,
       "type_body_font": "avenir_next_rounded_n4",
@@ -338,7 +384,6 @@
       "badge_corner_radius": 18,
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
-      "accent_icons": "text",
       "social_twitter_link": "",
       "social_facebook_link": "",
       "social_pinterest_link": "",
