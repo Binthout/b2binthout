@@ -51,6 +51,7 @@
     },
     "9dcc8d35-d274-483e-a8b2-1928ecd7a9ce": {
       "type": "multirow",
+      "disabled": true,
       "blocks": {
         "template--19141076418892__9dcc8d35-d274-483e-a8b2-1928ecd7a9ce-168742791825c8fd0f-0": {
           "type": "row",
