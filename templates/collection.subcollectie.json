@@ -49,6 +49,41 @@
         "padding_bottom": 36
       }
     },
+    "9dcc8d35-d274-483e-a8b2-1928ecd7a9ce": {
+      "type": "multirow",
+      "blocks": {
+        "template--19141076418892__9dcc8d35-d274-483e-a8b2-1928ecd7a9ce-168742791825c8fd0f-0": {
+          "type": "row",
+          "settings": {
+            "image": "{{ collection.metafields.custom.subcollectie.value.sfeerbeeld_1.value }}",
+            "image_link": "",
+            "caption": "Sociaal geproduceerd",
+            "heading": "Een kijkje in onze werkplaats",
+            "text": "<p>Samen met onze partners <\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19141076418892__9dcc8d35-d274-483e-a8b2-1928ecd7a9ce-168742791825c8fd0f-0"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -61,6 +96,7 @@
   "order": [
     "098e5446-d549-4f6b-b9b5-a04b72108002",
     "product-grid",
+    "9dcc8d35-d274-483e-a8b2-1928ecd7a9ce",
     "banner"
   ]
 }
