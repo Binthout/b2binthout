@@ -57,11 +57,11 @@
           "settings": {
             "image": "{{ collection.metafields.custom.subcollectie.value.sfeerbeeld_1.value }}",
             "image_link": "",
-            "caption": "Sociaal geproduceerd",
-            "heading": "Een kijkje in onze werkplaats",
+            "caption": "Sociaal & duurzaam geproduceerd",
+            "heading": "Op maat gemaakt",
             "text": "<p>Samen met onze partners <\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Wordt partner",
+            "button_link": "shopify:\/\/blogs\/partners"
           }
         }
       },
