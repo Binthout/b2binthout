@@ -99,14 +99,14 @@
         },
         "template--14745249022144__b27880e1-a552-412a-b975-8e40895011b7-1679994314deeaa50b-2": {
           "type": "row",
-          "disabled": true,
           "settings": {
-            "image_link": "",
-            "caption": "Klemborden van hout",
-            "heading": "Horeca producten",
-            "text": "<p>Van klemborden, tot qr-code blokken & meer. <\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/lasersnijden-binthout.jpg",
+            "image_link": "shopify:\/\/collections\/houten-klemborden",
+            "caption": "Geschikt voor de horeca",
+            "heading": "Klemborden van hout",
+            "text": "<p>In diverse uitvoeringen in A4 en A5. Vanaf 25 stuks leverbaar met een eigen logo.<\/p>",
+            "button_label": "Naar de klemborden",
+            "button_link": "shopify:\/\/collections\/houten-klemborden"
           }
         }
       },
