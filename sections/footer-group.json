@@ -5,18 +5,18 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "6b1a5801-89d1-4619-911e-c6facac70610": {
-          "type": "text",
+        "6d73d006-983f-4b50-a5e2-3294d525bf9c": {
+          "type": "brand_information",
           "settings": {
-            "heading": "Contactgegevens",
-            "subtext": "<p>Binthout B.V.<br\/>Herfterlaan 2c<br\/>8024 PJ, Zwolle<br\/><a href=\"mailto:info@binthout.nl\" target=\"_blank\" title=\"Mail naar Binthout in Zwolle\">info@binthout.nl <\/a><br\/><a href=\"tel:+31382060016\" target=\"_blank\" title=\"Bel met Binthout Zwolle\">038-2060016<\/a><\/p>"
+            "show_social": true
           }
         },
-        "footer-1": {
-          "type": "link_list",
+        "footer-2": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "heading": "Samen impact maken",
-            "menu": "footermenu-2"
+            "heading": "Impact op Mens & Milieu",
+            "subtext": "<p>Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Handgemaakt en geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.<\/p>"
           }
         },
         "footer-0": {
@@ -26,19 +26,27 @@
             "menu": "footermenu"
           }
         },
-        "footer-2": {
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Samen impact maken",
+            "menu": "footermenu-2"
+          }
+        },
+        "6b1a5801-89d1-4619-911e-c6facac70610": {
           "type": "text",
           "settings": {
-            "heading": "Impact op Mens & Milieu",
-            "subtext": "<p>Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Handgemaakt en geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.<\/p>"
+            "heading": "Contactgegevens",
+            "subtext": "<p>Binthout B.V.<br\/>Herfterlaan 2c<br\/>8024 PJ, Zwolle<br\/><a href=\"mailto:info@binthout.nl\" target=\"_blank\" title=\"Mail naar Binthout in Zwolle\">info@binthout.nl <\/a><br\/><a href=\"tel:+31382060016\" target=\"_blank\" title=\"Bel met Binthout Zwolle\">038-2060016<\/a><\/p>"
           }
         }
       },
       "block_order": [
-        "6b1a5801-89d1-4619-911e-c6facac70610",
-        "footer-1",
+        "6d73d006-983f-4b50-a5e2-3294d525bf9c",
+        "footer-2",
         "footer-0",
-        "footer-2"
+        "footer-1",
+        "6b1a5801-89d1-4619-911e-c6facac70610"
       ],
       "settings": {
         "color_scheme": "scheme-24e0ffbd-81fa-47c4-a422-bc8210fa3501",
