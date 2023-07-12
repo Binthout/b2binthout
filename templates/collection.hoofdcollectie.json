@@ -1,0 +1,103 @@
+{
+  "sections": {
+    "098e5446-d549-4f6b-b9b5-a04b72108002": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19141076418892__098e5446-d549-4f6b-b9b5-a04b72108002-168741512416f60cd1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ collection.metafields.custom.subcollectie.value.naam.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "template--19141076418892__098e5446-d549-4f6b-b9b5-a04b72108002-168741512416f60cd1-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ collection.metafields.custom.subcollectie.value.omschrijving_collectie | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "template--19141076418892__098e5446-d549-4f6b-b9b5-a04b72108002-168741512416f60cd1-0",
+        "template--19141076418892__098e5446-d549-4f6b-b9b5-a04b72108002-168741512416f60cd1-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9dcc8d35-d274-483e-a8b2-1928ecd7a9ce": {
+      "type": "multirow",
+      "disabled": true,
+      "blocks": {
+        "template--19141076418892__9dcc8d35-d274-483e-a8b2-1928ecd7a9ce-168742791825c8fd0f-0": {
+          "type": "row",
+          "settings": {
+            "image": "{{ collection.metafields.custom.subcollectie.value.sfeerbeeld_1.value }}",
+            "image_link": "",
+            "caption": "Sociaal & duurzaam geproduceerd",
+            "heading": "Op maat gemaakt",
+            "text": "<p>Samen met onze partners <\/p>",
+            "button_label": "Wordt partner",
+            "button_link": "shopify:\/\/blogs\/partners"
+          }
+        }
+      },
+      "block_order": [
+        "template--19141076418892__9dcc8d35-d274-483e-a8b2-1928ecd7a9ce-168742791825c8fd0f-0"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "scheme-24e0ffbd-81fa-47c4-a422-bc8210fa3501",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    }
+  },
+  "order": [
+    "098e5446-d549-4f6b-b9b5-a04b72108002",
+    "product-grid",
+    "9dcc8d35-d274-483e-a8b2-1928ecd7a9ce",
+    "banner"
+  ]
+}
