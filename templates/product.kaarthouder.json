@@ -136,8 +136,8 @@
         "template--19256906088780__ab6524f2-fa95-4a59-a6d8-f0ee78063c36-1689241191c822606b-2"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "small",
+        "desktop_image_width": "large",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
