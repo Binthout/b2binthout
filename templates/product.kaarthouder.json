@@ -35,6 +35,18 @@
           "settings": {
           }
         },
+        "fba1a090-eb7e-44ff-8584-95e5d8f8990c": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "box",
+            "heading_1": "70x30x20mm (lxbxh)",
+            "icon_2": "none",
+            "heading_2": "",
+            "icon_3": "none",
+            "heading_3": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -83,6 +95,7 @@
         "caption",
         "e39f0c63-2b02-4b66-9eb7-0fd839f4d8da",
         "price",
+        "fba1a090-eb7e-44ff-8584-95e5d8f8990c",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
