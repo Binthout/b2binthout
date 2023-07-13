@@ -40,7 +40,7 @@
           "settings": {
             "layout": "vertical",
             "icon_1": "box",
-            "heading_1": "{{ product.metafields.custom.papiermaat | metafield_text }}",
+            "heading_1": "{{ product.metafields.custom.productmaat.value }}",
             "icon_2": "none",
             "heading_2": "",
             "icon_3": "none",
