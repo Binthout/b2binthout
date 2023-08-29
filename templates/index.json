@@ -21,7 +21,7 @@
         "template--14745249218752__74d8427f-7f01-4e8e-9a05-86e4128cfdca-1680096119440b4ee4-1": {
           "type": "text",
           "settings": {
-            "text": "Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.",
+            "text": "<p>Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.<\/p>",
             "text_style": "body"
           }
         },
@@ -56,7 +56,6 @@
     },
     "394da00c-6c16-4167-95bb-6ff1f80dd576": {
       "type": "multirow",
-      "disabled": true,
       "blocks": {
         "template--14745249218752__394da00c-6c16-4167-95bb-6ff1f80dd576-16799191783bd73a1a-0": {
           "type": "row",
@@ -65,7 +64,7 @@
             "image_link": "",
             "caption": "Wij zijn social Enterprise",
             "heading": "Impact door waardevol werk met Nederlands hout!",
-            "text": "Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.",
+            "text": "<p>Binthout redt Nederlandse bomen van de versnipperaar en maakt prachtige producten van het hout. Geproduceerd in Nederland, omdat iedereen een kans verdient op de arbeidsmarkt.<\/p>",
             "button_label": "Onze eigen producten",
             "button_link": "https:\/\/b2binthout.nl\/collections"
           }
@@ -74,6 +73,7 @@
       "block_order": [
         "template--14745249218752__394da00c-6c16-4167-95bb-6ff1f80dd576-16799191783bd73a1a-0"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "small",
         "desktop_image_width": "medium",
@@ -100,7 +100,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/www.social-enterprise.nl"
           }
         },
         "column1": {
@@ -159,7 +159,6 @@
     },
     "22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "ea978b4a-2c10-4672-af20-a5a6ab59f948": {
           "type": "caption",
@@ -179,7 +178,7 @@
         "template--14745249218752__22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1-166807237600225cee-1": {
           "type": "text",
           "settings": {
-            "text": "En maken er prachtige houten producten van. Sociaal geproduceerd, omdat we geloven dat we met waardevol werk impact maken.",
+            "text": "<p>En maken er prachtige houten producten van. Sociaal geproduceerd, omdat we geloven dat we met waardevol werk impact maken.<\/p>",
             "text_style": "body"
           }
         },
@@ -197,6 +196,7 @@
         "template--14745249218752__22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1-166807237600225cee-1",
         "template--14745249218752__22eeaf8f-df7f-4876-a7fb-b5b986ab2bd1-166807237600225cee-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
         "height": "small",
@@ -222,7 +222,7 @@
             "image_link": "shopify:\/\/blogs\/partners",
             "caption": "Partners & Samenwerking",
             "heading": "Wil jij met ons samenwerken?",
-            "text": "Hoe meer werk - Hoe meer impact. En daar hebben we jouw hulp bij nodig. We zijn continu op zoek naar nieuwe samenwerkingen voor langere termijn.",
+            "text": "<p>Hoe meer werk - Hoe meer impact. En daar hebben we jouw hulp bij nodig. We zijn continu op zoek naar nieuwe samenwerkingen voor langere termijn.<\/p>",
             "button_label": "Bekijk onze partners",
             "button_link": "shopify:\/\/blogs\/partners"
           }
@@ -234,7 +234,7 @@
             "image_link": "shopify:\/\/blogs\/impact",
             "caption": "Dagbesteding en werkervaring",
             "heading": "Zorg voor draagvlak & verbinding.",
-            "text": "We hebben, in de afgelopen 10 jaar, mogen ontdekken dat werken met hout heel veel mogelijkheid biedt om mensen arbeidsmatig op te leiden en sociaal betrokken te krijgen.",
+            "text": "<p>We hebben, in de afgelopen 10 jaar, mogen ontdekken dat werken met hout heel veel mogelijkheid biedt om mensen arbeidsmatig op te leiden en sociaal betrokken te krijgen.<\/p>",
             "button_label": "Onze impact",
             "button_link": "shopify:\/\/blogs\/impact"
           }
@@ -262,13 +262,12 @@
     },
     "328f2e2f-4fe8-4e52-b57d-e2d2c364287d": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--14745249218752__328f2e2f-4fe8-4e52-b57d-e2d2c364287d-167992034254454f7a-0": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -277,7 +276,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -286,7 +285,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -297,6 +296,7 @@
         "template--14745249218752__328f2e2f-4fe8-4e52-b57d-e2d2c364287d-167992034254454f7a-1",
         "template--14745249218752__328f2e2f-4fe8-4e52-b57d-e2d2c364287d-167992034254454f7a-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Een paar van onze impactmakers",
         "heading_size": "h2",
