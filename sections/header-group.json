@@ -2,39 +2,6 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "announcement-bar": {
-      "type": "announcement-bar",
-      "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Voor lampen & tafels ga naar Binthout.nl",
-            "link": "https:\/\/www.binthout.nl"
-          }
-        },
-        "13a16832-b91d-4d01-9119-c12be17c4650": {
-          "type": "announcement",
-          "settings": {
-            "text": "Bijenhotels uit voorraad leverbaar!",
-            "link": "shopify:\/\/products\/bijenhotel-maken"
-          }
-        }
-      },
-      "block_order": [
-        "announcement-bar-0",
-        "13a16832-b91d-4d01-9119-c12be17c4650"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "background-2",
-        "show_line_separator": true,
-        "show_social": false,
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "enable_country_selector": false,
-        "enable_language_selector": false
-      }
-    },
     "header": {
       "type": "header",
       "settings": {
@@ -52,10 +19,43 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Voor lampen & tafels ga naar Binthout.nl",
+            "link": "https:\/\/www.binthout.nl"
+          }
+        },
+        "13a16832-b91d-4d01-9119-c12be17c4650": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Bijenhotels uit voorraad leverbaar!",
+            "link": "shopify:\/\/products\/bijenhotel-maken"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "13a16832-b91d-4d01-9119-c12be17c4650"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
     }
   },
   "order": [
-    "announcement-bar",
-    "header"
+    "header",
+    "announcement-bar"
   ]
 }
