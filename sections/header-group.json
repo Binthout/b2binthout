@@ -25,6 +25,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Voor lampen & tafels ga naar Binthout.nl",
             "link": "https:\/\/www.binthout.nl"
@@ -37,14 +38,22 @@
             "text": "Bijenhotels uit voorraad leverbaar!",
             "link": "shopify:\/\/products\/bijenhotel-maken"
           }
+        },
+        "edc7bd1a-8b21-4295-9bc0-721f4718a6eb": {
+          "type": "announcement",
+          "settings": {
+            "text": "De komende 2 weken zijn wij gesloten. Bestellingen kunnen geplaatst worden. Vanaf 8 januari verzenden we weer. Fijne feestdagen.",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "13a16832-b91d-4d01-9119-c12be17c4650"
+        "13a16832-b91d-4d01-9119-c12be17c4650",
+        "edc7bd1a-8b21-4295-9bc0-721f4718a6eb"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": true,
