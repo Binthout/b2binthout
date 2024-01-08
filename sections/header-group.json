@@ -52,6 +52,7 @@
         "13a16832-b91d-4d01-9119-c12be17c4650",
         "edc7bd1a-8b21-4295-9bc0-721f4718a6eb"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-2",
         "show_line_separator": true,
