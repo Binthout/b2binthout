@@ -41,20 +41,28 @@
         },
         "edc7bd1a-8b21-4295-9bc0-721f4718a6eb": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "De komende 2 weken zijn wij gesloten. Bestellingen kunnen geplaatst worden. Vanaf 8 januari verzenden we weer. Fijne feestdagen.",
             "link": ""
+          }
+        },
+        "62a0d136-85bd-4491-b426-377266936d5d": {
+          "type": "announcement",
+          "settings": {
+            "text": "Gezocht: Werkplaatsbegeleider; Solliciteer voor 31 januari",
+            "link": "shopify:\/\/pages\/vacature"
           }
         }
       },
       "block_order": [
         "announcement-bar-0",
         "13a16832-b91d-4d01-9119-c12be17c4650",
-        "edc7bd1a-8b21-4295-9bc0-721f4718a6eb"
+        "edc7bd1a-8b21-4295-9bc0-721f4718a6eb",
+        "62a0d136-85bd-4491-b426-377266936d5d"
       ],
-      "disabled": true,
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": true,
