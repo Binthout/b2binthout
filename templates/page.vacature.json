@@ -5,9 +5,8 @@
       "blocks": {
         "template--20479271108940__19291559-3a1e-450f-bb8c-e9a822c71f0d-heading-1": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "{{ page.title }}",
+            "heading": "Past deze vacature bij jou?",
             "heading_size": "h0"
           }
         },
