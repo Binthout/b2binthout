@@ -2,27 +2,6 @@
   "sections": {
     "19291559-3a1e-450f-bb8c-e9a822c71f0d": {
       "type": "image-banner",
-      "blocks": {
-        "template--20479271108940__19291559-3a1e-450f-bb8c-e9a822c71f0d-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "template--20479271108940__19291559-3a1e-450f-bb8c-e9a822c71f0d-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "template--20479271108940__19291559-3a1e-450f-bb8c-e9a822c71f0d-heading-1",
-        "template--20479271108940__19291559-3a1e-450f-bb8c-e9a822c71f0d-text-1"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg",
         "image_overlay_opacity": 0,
