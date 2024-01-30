@@ -71,7 +71,7 @@
           "settings": {
             "image": "{{ block.repeater.logo.value }}",
             "title": "{{ block.repeater.naam.value }}",
-            "text": "<p>{{ block.repeater.omschrijving | metafield_tag }}<\/p>",
+            "text": "{{ block.repeater.omschrijving | metafield_tag }}",
             "link_label": "",
             "link": ""
           }
