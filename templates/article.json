@@ -7,7 +7,7 @@
           "type": "heading",
           "source": "{{ article.metafields.custom.cta.value }}",
           "settings": {
-            "heading": "<p>{{ article.metafields.custom.cta.value.koptekst.value }}<\/p>",
+            "heading": "{{ article.metafields.custom.cta.value.koptekst.value }}",
             "heading_size": "h1"
           }
         },
