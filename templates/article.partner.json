@@ -1,0 +1,88 @@
+{
+  "sections": {
+    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-0": {
+          "type": "heading",
+          "source": "{{ article.metafields.custom.cta.value }}",
+          "settings": {
+            "heading": "{{ article.metafields.custom.cta.value.koptekst.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ article.metafields.custom.cta.value.beschrijving | metafield_tag }}"
+          }
+        },
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "{{ article.metafields.custom.cta.value.cta.value }}",
+            "button_link": "{{ article.metafields.custom.cta.value.url.value }}",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-0",
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-1",
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "medium"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        },
+        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29": {
+          "type": "share",
+          "settings": {
+            "share_label": "Deel deze pagina."
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377",
+    "main"
+  ]
+}
