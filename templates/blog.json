@@ -7,7 +7,7 @@
           "type": "heading",
           "source": "{{ blog.metafields.custom.cta.value }}",
           "settings": {
-            "heading": "<p>{{ blog.metafields.custom.cta.value.koptekst.value }}<\/p>",
+            "heading": "{{ blog.metafields.custom.cta.value.koptekst.value }}",
             "heading_size": "h1"
           }
         },
@@ -15,7 +15,7 @@
           "type": "text",
           "source": "{{ blog.metafields.custom.cta.value }}",
           "settings": {
-            "text": "<p>{{ blog.metafields.custom.cta.value.beschrijving | metafield_tag }}<\/p>"
+            "text": "<p>{{ blog.metafields.custom.cta.value.beschrijving | metafield_tag }}"
           }
         },
         "template--14745248858304__50bfb41b-60d4-44ba-84fb-7fef03ae1eb5-16799123884bec702f-2": {
