@@ -23,7 +23,7 @@
           "type": "buttons",
           "source": "{{ article.metafields.custom.partner.value }}",
           "settings": {
-            "button_label_1": "naar {{ article.metafields.custom.partner.value.partner.value }}",
+            "button_label_1": "naar website {{ article.metafields.custom.partner.value.partner.value }}",
             "button_link_1": "{{ article.metafields.custom.partner.value.link_naar_de_partner.value }}",
             "button_style_secondary_1": true,
             "button_label_2": "",
