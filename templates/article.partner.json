@@ -23,7 +23,7 @@
           "type": "buttons",
           "source": "{{ article.metafields.custom.partner.value }}",
           "settings": {
-            "button_label_1": "",
+            "button_label_1": "naar {{ article.metafields.custom.partner.value.partner.value }}",
             "button_link_1": "{{ article.metafields.custom.partner.value.link_naar_de_partner.value }}",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -50,37 +50,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
-      }
-    },
-    "main": {
-      "type": "main-article",
-      "blocks": {
-        "title": {
-          "type": "title",
-          "disabled": true,
-          "settings": {
-            "blog_show_date": false,
-            "blog_show_author": false
-          }
-        },
-        "content": {
-          "type": "content",
-          "settings": {
-          }
-        },
-        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29": {
-          "type": "share",
-          "settings": {
-            "share_label": "Deel deze pagina."
-          }
-        }
-      },
-      "block_order": [
-        "title",
-        "content",
-        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29"
-      ],
-      "settings": {
       }
     },
     "multirow_9LAr9F": {
@@ -111,12 +80,42 @@
         "button_style": "primary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "align-left",
+        "image_layout": "alternate-left",
         "section_color_scheme": "background-1",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        },
+        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29": {
+          "type": "share",
+          "settings": {
+            "share_label": "Deel deze pagina."
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "content",
+        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29"
+      ],
+      "settings": {
       }
     },
     "featured_blog_dyJmmD": {
@@ -178,13 +177,42 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "featured_collection_VWCBMY": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "{{ article.metafields.custom.partner.value.collectie1.value }}",
+        "products_to_show": 9,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner_VyeURG",
-    "main",
     "multirow_9LAr9F",
+    "main",
     "featured_blog_dyJmmD",
-    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377"
+    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377",
+    "featured_collection_VWCBMY"
   ]
 }
