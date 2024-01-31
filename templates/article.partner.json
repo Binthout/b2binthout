@@ -11,8 +11,8 @@
             "caption": "Impactmaker sinds {{ article.metafields.custom.partner.value.sinds.value }}",
             "heading": "{{ article.title }}",
             "text": "",
-            "button_label": "Bekijk alle partners",
-            "button_link": "shopify:\/\/blogs\/partners"
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
@@ -31,8 +31,8 @@
         "section_color_scheme": "background-1",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image_banner_VyeURG": {
