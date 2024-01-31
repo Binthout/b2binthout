@@ -90,6 +90,7 @@
     },
     "featured_collection_nNNUMk": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -202,8 +203,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
