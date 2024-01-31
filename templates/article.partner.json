@@ -78,7 +78,7 @@
         "image": "{{ article.image }}",
         "image_2": "{{ article.metafields.custom.partner.value.afbeelding_2.value }}",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
