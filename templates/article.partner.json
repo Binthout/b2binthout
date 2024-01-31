@@ -18,8 +18,9 @@
         },
         "image_Nt8BTx": {
           "type": "image",
+          "source": "{{ article.metafields.custom.partner.value }}",
           "settings": {
-            "image": "shopify:\/\/shop_images\/opsluitbank-ramazan-died.jpg"
+            "image": "{{ article.metafields.custom.partner.value.afbeelding_2.value }}"
           }
         }
       },
