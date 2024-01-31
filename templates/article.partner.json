@@ -23,11 +23,11 @@
           "type": "buttons",
           "source": "{{ article.metafields.custom.partner.value }}",
           "settings": {
-            "button_label_1": "{{ article.metafields.custom.partner.value.partner.value }}",
+            "button_label_1": "",
             "button_link_1": "{{ article.metafields.custom.partner.value.link_naar_de_partner.value }}",
             "button_style_secondary_1": true,
-            "button_label_2": "{{ article.metafields.custom.cta.value.koptekst.value }}",
-            "button_link_2": "{{ article.metafields.custom.cta.value.url.value }}",
+            "button_label_2": "",
+            "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
@@ -47,7 +47,7 @@
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
       }
