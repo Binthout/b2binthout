@@ -82,6 +82,76 @@
       "settings": {
       }
     },
+    "featured_product_qFEK9A": {
+      "type": "featured-product",
+      "blocks": {
+        "text_dDA73t": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_PNNAkb": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_cwGtGY": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_6bRQVC": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_aRkwgn": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_HfCBNU": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_DYcfGb": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_dDA73t",
+        "title_PNNAkb",
+        "price_cwGtGY",
+        "variant_picker_6bRQVC",
+        "quantity_selector_aRkwgn",
+        "buy_buttons_HfCBNU",
+        "share_DYcfGb"
+      ],
+      "settings": {
+        "product": "{{ article.metafields.custom.partner.value.product.value }}",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_H9yapi": {
       "type": "multicolumn",
       "blocks": {
@@ -198,84 +268,14 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "featured_product_qFEK9A": {
-      "type": "featured-product",
-      "blocks": {
-        "text_dDA73t": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_PNNAkb": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_cwGtGY": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_6bRQVC": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector_aRkwgn": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_HfCBNU": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_DYcfGb": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_dDA73t",
-        "title_PNNAkb",
-        "price_cwGtGY",
-        "variant_picker_6bRQVC",
-        "quantity_selector_aRkwgn",
-        "buy_buttons_HfCBNU",
-        "share_DYcfGb"
-      ],
-      "settings": {
-        "product": "{{ article.metafields.custom.partner.value.product.value }}",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "image_banner_VyeURG",
     "main",
+    "featured_product_qFEK9A",
     "multicolumn_H9yapi",
     "featured_blog_dyJmmD",
-    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377",
-    "featured_product_qFEK9A"
+    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377"
   ]
 }
