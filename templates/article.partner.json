@@ -1,51 +1,10 @@
 {
   "sections": {
-    "collage_XVJt6D": {
-      "type": "collage",
-      "blocks": {
-        "image_PHRY4B": {
-          "type": "image",
-          "source": "{{ article.metafields.custom.partner.value }}",
-          "settings": {
-            "image": "{{ article.metafields.custom.partner.value.logo.value }}"
-          }
-        },
-        "image_XfzRmE": {
-          "type": "image",
-          "settings": {
-            "image": "{{ article.image }}"
-          }
-        },
-        "image_Nt8BTx": {
-          "type": "image",
-          "source": "{{ article.metafields.custom.partner.value }}",
-          "settings": {
-            "image": "{{ article.metafields.custom.partner.value.afbeelding_2.value }}"
-          }
-        }
-      },
-      "block_order": [
-        "image_PHRY4B",
-        "image_XfzRmE",
-        "image_Nt8BTx"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_VyeURG": {
       "type": "image-banner",
-      "disabled": true,
       "settings": {
         "image": "{{ article.image }}",
-        "image_2": "{{ article.metafields.custom.partner.value.logo.value }}",
+        "image_2": "{{ article.metafields.custom.partner.value.afbeelding_2.value }}",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -150,7 +109,6 @@
     }
   },
   "order": [
-    "collage_XVJt6D",
     "image_banner_VyeURG",
     "main",
     "featured_blog_dyJmmD",
