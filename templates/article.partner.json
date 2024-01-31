@@ -1,5 +1,40 @@
 {
   "sections": {
+    "multirow_9LAr9F": {
+      "type": "multirow",
+      "blocks": {
+        "row_PFMk4F": {
+          "type": "row",
+          "settings": {
+            "image": "{{ article.metafields.custom.partner.value.logo.value }}",
+            "image_link": "",
+            "caption": "Impactmaker sinds {{ article.metafields.custom.partner.value.sinds.value }}",
+            "heading": "{{ article.title }}",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_PFMk4F"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_VyeURG": {
       "type": "image-banner",
       "settings": {
@@ -22,6 +57,7 @@
       "blocks": {
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "blog_show_date": false,
             "blog_show_author": false
@@ -109,6 +145,7 @@
     }
   },
   "order": [
+    "multirow_9LAr9F",
     "image_banner_VyeURG",
     "main",
     "featured_blog_dyJmmD",
