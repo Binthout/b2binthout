@@ -11,8 +11,8 @@
             "caption": "Impactmaker sinds {{ article.metafields.custom.partner.value.sinds.value }}",
             "heading": "{{ article.title }}",
             "text": "",
-            "button_label": "{{ article.metafields.custom.partner.value.knoptekst.value }}",
-            "button_link": "{{ article.metafields.custom.partner.value.link_naar_de_partner.value }}"
+            "button_label": "Alle partners",
+            "button_link": "shopify:\/\/blogs\/partners"
           }
         }
       },
@@ -24,15 +24,15 @@
         "desktop_image_width": "small",
         "heading_size": "h1",
         "text_style": "body",
-        "button_style": "secondary",
+        "button_style": "primary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
+        "image_layout": "align-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 24
       }
     },
     "image_banner_VyeURG": {
