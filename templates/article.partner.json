@@ -7,12 +7,12 @@
           "type": "row",
           "settings": {
             "image": "{{ article.metafields.custom.partner.value.logo.value }}",
-            "image_link": "",
+            "image_link": "{{ article.metafields.custom.partner.value.link_naar_de_partner.value }}",
             "caption": "Impactmaker sinds {{ article.metafields.custom.partner.value.sinds.value }}",
             "heading": "{{ article.title }}",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "{{ article.metafields.custom.partner.value.knoptekst.value }}",
+            "button_link": "{{ article.metafields.custom.partner.value.link_naar_de_partner.value }}"
           }
         }
       },
