@@ -1,0 +1,210 @@
+{
+  "sections": {
+    "image_banner_VyeURG": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_qeggwt": {
+          "type": "heading",
+          "source": "{{ article.metafields.custom.partner.value }}",
+          "settings": {
+            "heading": "{{ article.metafields.custom.partner.value.partner.value }}",
+            "heading_size": "h0"
+          }
+        },
+        "text_BcAJqK": {
+          "type": "text",
+          "source": "{{ article.metafields.custom.partner.value }}",
+          "settings": {
+            "text": "Partner sinds {{ article.metafields.custom.partner.value.sinds.value }}",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_ReEJex": {
+          "type": "buttons",
+          "source": "{{ article.metafields.custom.partner.value }}",
+          "settings": {
+            "button_label_1": "naar website {{ article.metafields.custom.partner.value.partner.value }}",
+            "button_link_1": "{{ article.metafields.custom.partner.value.link_naar_de_partner.value }}",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qeggwt",
+        "text_BcAJqK",
+        "buttons_ReEJex"
+      ],
+      "settings": {
+        "image": "{{ article.image }}",
+        "image_2": "{{ article.metafields.custom.partner.value.afbeelding_2.value }}",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        },
+        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29": {
+          "type": "share",
+          "settings": {
+            "share_label": "Deel deze pagina."
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "content",
+        "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29"
+      ],
+      "settings": {
+      }
+    },
+    "multicolumn_H9yapi": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Q4bUcC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SDG-icon-NL-RGB-15_jpg.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6yp7tJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SDG-icon-NL-RGB-12_4019c926-fff3-4165-b044-c338e4502f78.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mBEY8P": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SDG-icon-NL-RGB-08_d2325dfb-5530-4be0-a362-acf5d7ea7514.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Q4bUcC",
+        "column_6yp7tJ",
+        "column_mBEY8P"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_dyJmmD": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "blog": "partners",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-24e0ffbd-81fa-47c4-a422-bc8210fa3501",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-0": {
+          "type": "heading",
+          "source": "{{ article.metafields.custom.cta.value }}",
+          "settings": {
+            "heading": "{{ article.metafields.custom.cta.value.koptekst.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ article.metafields.custom.cta.value.beschrijving | metafield_tag }}"
+          }
+        },
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "{{ article.metafields.custom.cta.value.cta.value }}",
+            "button_link": "{{ article.metafields.custom.cta.value.url.value }}",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-0",
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-1",
+        "template--14745248989376__ef98d4ad-2afa-47df-a4c5-3b7e286c9377-167991532630741576-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_VyeURG",
+    "main",
+    "multicolumn_H9yapi",
+    "featured_blog_dyJmmD",
+    "ef98d4ad-2afa-47df-a4c5-3b7e286c9377"
+  ]
+}
