@@ -52,71 +52,6 @@
         "show_text_below": true
       }
     },
-    "multirow_9LAr9F": {
-      "type": "multirow",
-      "blocks": {
-        "row_PFMk4F": {
-          "type": "row",
-          "settings": {
-            "image": "{{ article.metafields.custom.partner.value.logo.value }}",
-            "image_link": "{{ article.metafields.custom.partner.value.link_naar_de_partner.value }}",
-            "caption": "Impactmaker sinds {{ article.metafields.custom.partner.value.sinds.value }}",
-            "heading": "{{ article.title }}",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_PFMk4F"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_height": "small",
-        "desktop_image_width": "small",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "primary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "background-1",
-        "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_nNNUMk": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "{{ article.metafields.custom.partner.value.collectie1.value }}",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "main": {
       "type": "main-article",
       "blocks": {
@@ -145,6 +80,62 @@
         "c4c19b9b-5ce4-4e3a-b3a7-e92df7957e29"
       ],
       "settings": {
+      }
+    },
+    "multicolumn_H9yapi": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Q4bUcC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SDG-icon-NL-RGB-15_jpg.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6yp7tJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SDG-icon-NL-RGB-12_4019c926-fff3-4165-b044-c338e4502f78.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mBEY8P": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SDG-icon-NL-RGB-08_d2325dfb-5530-4be0-a362-acf5d7ea7514.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Q4bUcC",
+        "column_6yp7tJ",
+        "column_mBEY8P"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 36
       }
     },
     "featured_blog_dyJmmD": {
@@ -210,9 +201,8 @@
   },
   "order": [
     "image_banner_VyeURG",
-    "multirow_9LAr9F",
-    "featured_collection_nNNUMk",
     "main",
+    "multicolumn_H9yapi",
     "featured_blog_dyJmmD",
     "ef98d4ad-2afa-47df-a4c5-3b7e286c9377"
   ]
