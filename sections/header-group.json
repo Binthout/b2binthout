@@ -7,7 +7,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Voor lampen & tafels ga naar Binthout.nl",
             "link": "https:\/\/www.binthout.nl"
@@ -31,6 +30,7 @@
         },
         "62a0d136-85bd-4491-b426-377266936d5d": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Gezocht: Werkplaatsbegeleider; Solliciteer voor 31 januari",
             "link": "shopify:\/\/pages\/vacature"
