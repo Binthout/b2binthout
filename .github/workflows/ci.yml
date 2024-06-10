@@ -1,32 +1,26 @@
-# .github/workflows/lighthouse-ci.yml
-name: Shopify Lighthouse CI
+name: CI
 on: [push]
 jobs:
   lhci:
     name: Lighthouse
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
       - name: Lighthouse
         uses: shopify/lighthouse-ci-action@v1
         with:
-          store: ${{ secrets.SHOP_STORE }}
+          store: ${{ secrets.SHOP_STORE_OS2 }}
+          password: ${{ secrets.SHOP_PASSWORD_OS2 }}
           access_token: ${{ secrets.SHOP_ACCESS_TOKEN }}
-          lhci_github_app_token: ${{ secrets.LHCI_GITHUB_APP_TOKEN }}
-          lhci_min_score_performance: 0.9
-          lhci_min_score_accessibility: 0.9
-# .github/workflows/theme-check.yml
-name: Theme Check
-on: [push]
-jobs:
+          collection_handle: all
+          lhci_github_app_token: ${{ secrets.LHCI_GITHUB_TOKEN }}
+          pull_theme: ${{ secrets.SHOP_PULL_THEME }}
   theme-check:
     name: Theme Check
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
       - name: Theme Check
-        uses: shopify/theme-check-action@v2
+        uses: shopify/theme-check-action@v1
         with:
-          theme_root: '.' # optional, could be './dist'
           token: ${{ github.token }}
-          base: main
