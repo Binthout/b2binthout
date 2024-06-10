@@ -1,3 +1,0 @@
-              - name: Run Lighthouse CI on Shopify theme
-                uses: Shopify/lighthouse-ci-action@v1.2.0
-            
