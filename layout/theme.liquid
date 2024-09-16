@@ -31,6 +31,10 @@
     <script src="{{ 'constants.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
+    <script src="{{ 'details-disclosure.js' | asset_url }}" defer="defer"></script>
+    <script src="{{ 'details-modal.js' | asset_url }}" defer="defer"></script>
+    <script src="{{ 'search-form.js' | asset_url }}" defer="defer"></script>
+
     {%- if settings.animations_reveal_on_scroll -%}
       <script src="{{ 'animations.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
@@ -252,6 +256,15 @@
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
+    <link rel="stylesheet" href="{{ 'component-cart-items.css' | asset_url }}" media="print" onload="this.media='all'">
+
+    {%- if settings.cart_type == 'drawer' -%}
+      {{ 'component-cart-drawer.css' | asset_url | stylesheet_tag }}
+      {{ 'component-cart.css' | asset_url | stylesheet_tag }}
+      {{ 'component-totals.css' | asset_url | stylesheet_tag }}
+      {{ 'component-price.css' | asset_url | stylesheet_tag }}
+      {{ 'component-discounts.css' | asset_url | stylesheet_tag }}
+    {%- endif -%}
 
     {%- unless settings.type_body_font.system? -%}
       {% comment %}theme-check-disable AssetPreload{% endcomment %}
@@ -355,29 +368,34 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-  <!-- WPD Start -->
-                {% if customer.tags.size > 0 and template != 'cart' %}
-                <script>
-                    document.addEventListener('DOMContentLoaded', function() {
-                      let checkoutbtninterval = setInterval(function(){
-                        var x=document.querySelectorAll("input[name='checkout'], button[name='checkout'], input[name='goto_pp'], button[name='goto_pp'], input[name='goto_gc'], button[name='goto_gc'], [href$='checkout']");
-                        var WPD_RedirectToCart = function(e) {
-                          	e.stopPropagation();
-                            e.preventDefault();
-                            window.location = '/cart';
-                            };
-                            for (var i = 0; i < x.length; i++) {
-                                x[i].addEventListener('click', WPD_RedirectToCart, false);
-                            }
-                        },500)
-                });
-              </script>
-               {% endif %}
-         
+    <!-- WPD Start -->
+    {% if customer.tags.size > 0 and template != 'cart' %}
+      <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          let checkoutbtninterval = setInterval(function () {
+            var x = document.querySelectorAll(
+              "input[name='checkout'], button[name='checkout'], input[name='goto_pp'], button[name='goto_pp'], input[name='goto_gc'], button[name='goto_gc'], [href$='checkout']"
+            );
+            var WPD_RedirectToCart = function (e) {
+              e.stopPropagation();
+              e.preventDefault();
+              window.location = '/cart';
+            };
+            for (var i = 0; i < x.length; i++) {
+              x[i].addEventListener('click', WPD_RedirectToCart, false);
+            }
+          }, 500);
+        });
+      </script>
+    {% endif %}
 
-               {% if customer.tags.size > 0 and template == 'cart' %}
-                 {% include 'wcp_cart' %}
-               {% endif %}
-               <!-- WPD End -->
+    {% if customer.tags.size > 0 and template == 'cart' %}
+      {% include 'wcp_cart' %}
+    {% endif %}
+    <!-- WPD End -->
+
+    {%- if settings.cart_type == 'drawer' -%}
+      <script src="{{ 'cart-drawer.js' | asset_url }}" defer="defer"></script>
+    {%- endif -%}
   </body>
 </html>
