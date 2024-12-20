@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -18,7 +18,7 @@
           "type": "announcement",
           "settings": {
             "text": "Voor lampen & tafels ga naar Binthout.nl",
-            "link": "https:\/\/www.binthout.nl"
+            "link": "https://www.binthout.nl"
           }
         },
         "13a16832-b91d-4d01-9119-c12be17c4650": {
@@ -26,14 +26,14 @@
           "disabled": true,
           "settings": {
             "text": "Bijenhotels uit voorraad leverbaar!",
-            "link": "shopify:\/\/products\/bijenhotel-maken"
+            "link": "shopify://products/bijenhotel-maken"
           }
         },
         "edc7bd1a-8b21-4295-9bc0-721f4718a6eb": {
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "De komende 2 weken zijn wij gesloten. Bestellingen kunnen geplaatst worden. Vanaf 8 januari verzenden we weer. Fijne feestdagen.",
+            "text": "Onze werkplaats is gesloten van 21-12-24 t/m 05-12-25. Bestellingen worden vanaf 6 Januari weer verzonden.",
             "link": ""
           }
         },
@@ -42,7 +42,7 @@
           "disabled": true,
           "settings": {
             "text": "Gezocht: Online Marketing Specialist; Solliciteer voor 31 mei",
-            "link": "shopify:\/\/pages\/vacature"
+            "link": "shopify://pages/vacature"
           }
         }
       },
