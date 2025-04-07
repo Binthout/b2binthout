@@ -38,8 +38,16 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
         "quotify_button_E8Bf9H": {
           "type": "shopify://apps/quotify/blocks/button/e72a6125-4dd6-4154-a361-ca94e10e6d52",
+          "disabled": true,
           "settings": {
             "request_button": true,
             "request_button_text": "Offerte aanvragen",
@@ -57,13 +65,6 @@
             "button_horizontal_alignment": "center",
             "button_gap": 15,
             "block_css": ""
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
           }
         },
         "e21088d7-09bf-48ef-b507-6db39bae6f6f": {
@@ -95,8 +96,8 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "quotify_button_E8Bf9H",
         "buy_buttons",
+        "quotify_button_E8Bf9H",
         "e21088d7-09bf-48ef-b507-6db39bae6f6f",
         "description",
         "share"
