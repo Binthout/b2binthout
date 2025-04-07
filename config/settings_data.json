@@ -157,9 +157,9 @@
       },
       "15562191488504292397": {
         "type": "shopify://apps/quotify/blocks/sticky-cart-button/e72a6125-4dd6-4154-a361-ca94e10e6d52",
-        "disabled": true,
+        "disabled": false,
         "settings": {
-          "floating_quote_cart_button_text": "Show Quote Cart",
+          "floating_quote_cart_button_text": "Bekijk offerteaanvraag",
           "floating_quote_cart_button_background_color": "#ffffff",
           "floating_quote_cart_button_text_color": "#000000",
           "floating_quote_cart_button_border_color": "#000000",

@@ -38,19 +38,32 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "quotify_button_9bYLFw": {
+          "type": "shopify://apps/quotify/blocks/button/e72a6125-4dd6-4154-a361-ca94e10e6d52",
+          "settings": {
+            "request_button": true,
+            "request_button_text": "Offerte aanvragen",
+            "request_product": "{{product}}",
+            "request_button_class": "btn btn--primary button button--primary",
+            "request_button_css": "",
+            "request_button_width": 100,
+            "enable_quote_cart_button": false,
+            "enable_quote_cart_button_count": false,
+            "quote_cart_button_text": "Show Quote Cart",
+            "quote_cart_button_class": "btn btn--secondary button button--secondary",
+            "quote_cart_button_css": "",
+            "quote_cart_button_width": 100,
+            "button_positions": "side-by-side",
+            "button_horizontal_alignment": "center",
+            "button_gap": 15,
+            "block_css": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
-          }
-        },
-        "quotify_app_block_mHM9p4": {
-          "type": "shopify://apps/quotify/blocks/app-block/e72a6125-4dd6-4154-a361-ca94e10e6d52",
-          "settings": {
-            "text": "Offerte aanvragen",
-            "class": "button",
-            "custom_css": ""
           }
         },
         "e21088d7-09bf-48ef-b507-6db39bae6f6f": {
@@ -82,8 +95,8 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "quotify_button_9bYLFw",
         "buy_buttons",
-        "quotify_app_block_mHM9p4",
         "e21088d7-09bf-48ef-b507-6db39bae6f6f",
         "description",
         "share"
