@@ -13,3 +13,6 @@ jobs:
           theme_root: '.' # optional, could be './dist'
           token: ${{ github.token }}
           base: main
+extends: :theme_app_extension
+root: .
+extends_core: true
