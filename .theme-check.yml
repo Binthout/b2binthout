@@ -26,3 +26,252 @@ MatchingTranslations:
   ignore_missing_section: true
   ignore_missing_snippet: true
   ignore_missing_asset: true
+
+SchemaJsonFormat:
+  enabled: true
+
+JsonSchema:
+  enabled: true
+
+SchemaJson:
+  enabled: true
+
+SchemaJsonMissing:
+  enabled: true
+
+SchemaJsonMissingRequired:
+  enabled: true
+
+SchemaJsonMissingOptional:
+  enabled: true
+
+SchemaJsonMissingDeprecated:
+  enabled: true
+
+SchemaJsonMissingRemoved:
+  enabled: true
+
+SchemaJsonMissingAdded:
+  enabled: true
+
+SchemaJsonMissingChanged:
+  enabled: true
+
+SchemaJsonMissingUnchanged:
+  enabled: true
+
+SchemaJsonMissingUnknown:
+  enabled: true
+
+SchemaJsonMissingInvalid:
+  enabled: true
+
+SchemaJsonMissingValid:
+  enabled: true
+
+SchemaJsonMissingFormat:
+  enabled: true
+
+SchemaJsonMissingType:
+  enabled: true
+
+SchemaJsonMissingEnum:
+  enabled: true
+
+SchemaJsonMissingConst:
+  enabled: true
+
+SchemaJsonMissingMultipleOf:
+  enabled: true
+
+SchemaJsonMissingMaximum:
+  enabled: true
+
+SchemaJsonMissingMinimum:
+  enabled: true
+
+SchemaJsonMissingExclusiveMaximum:
+  enabled: true
+
+SchemaJsonMissingExclusiveMinimum:
+  enabled: true
+
+SchemaJsonMissingMaxLength:
+  enabled: true
+
+SchemaJsonMissingMinLength:
+  enabled: true
+
+SchemaJsonMissingPattern:
+  enabled: true
+
+SchemaJsonMissingMaxItems:
+  enabled: true
+
+SchemaJsonMissingMinItems:
+  enabled: true
+
+SchemaJsonMissingUniqueItems:
+  enabled: true
+
+SchemaJsonMissingMaxProperties:
+  enabled: true
+
+SchemaJsonMissingMinProperties:
+  enabled: true
+
+SchemaJsonMissingDependencies:
+  enabled: true
+
+SchemaJsonMissingPropertyNames:
+  enabled: true
+
+SchemaJsonMissingAdditionalProperties:
+  enabled: true
+
+SchemaJsonMissingAdditionalItems:
+  enabled: true
+
+SchemaJsonMissingContains:
+  enabled: true
+
+SchemaJsonMissingAllOf:
+  enabled: true
+
+SchemaJsonMissingAnyOf:
+  enabled: true
+
+SchemaJsonMissingOneOf:
+  enabled: true
+
+SchemaJsonMissingNot:
+  enabled: true
+
+SchemaJsonMissingIf:
+  enabled: true
+
+SchemaJsonMissingThen:
+  enabled: true
+
+SchemaJsonMissingElse:
+  enabled: true
+
+SchemaJsonMissingRef:
+  enabled: true
+
+SchemaJsonMissingDynamicRef:
+  enabled: true
+
+SchemaJsonMissingDynamicAnchor:
+  enabled: true
+
+SchemaJsonMissingRecursiveRef:
+  enabled: true
+
+SchemaJsonMissingRecursiveAnchor:
+  enabled: true
+
+SchemaJsonMissingVocabulary:
+  enabled: true
+
+SchemaJsonMissingComment:
+  enabled: true
+
+SchemaJsonMissingExamples:
+  enabled: true
+
+SchemaJsonMissingReadOnly:
+  enabled: true
+
+SchemaJsonMissingWriteOnly:
+  enabled: true
+
+SchemaJsonMissingContentMediaType:
+  enabled: true
+
+SchemaJsonMissingContentEncoding:
+  enabled: true
+
+SchemaJsonMissingContentSchema:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedProperties:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedItems:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedPrefixItems:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedAdditionalProperties:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedAdditionalItems:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedContains:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedAllOf:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedAnyOf:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedOneOf:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedNot:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedIf:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedThen:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedElse:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedRef:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedDynamicRef:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedDynamicAnchor:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedRecursiveRef:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedRecursiveAnchor:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedVocabulary:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedComment:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedExamples:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedDeprecated:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedReadOnly:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedWriteOnly:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedContentMediaType:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedContentEncoding:
+  enabled: true
+
+SchemaJsonMissingUnevaluatedContentSchema:
+  enabled: true
