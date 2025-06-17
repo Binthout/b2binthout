@@ -23,6 +23,7 @@ jobs:
       - name: Theme Check
         uses: shopify/theme-check-action@v2
         with:
-          token: ${{ github.token }}
+          store: ${{ secrets.SHOP_STORE }}
+          access_token: ${{ secrets.SHOP_ACCESS_TOKEN }}
           theme_root: .
           base: main
