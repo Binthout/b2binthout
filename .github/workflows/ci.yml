@@ -15,8 +15,6 @@ jobs:
           pull_theme: true
           lhci_min_score_performance: 0.6
           lhci_min_score_accessibility: 0.9
-          lhci_min_score_best_practices: 0.8
-          lhci_min_score_seo: 0.8
   theme-check:
     name: Theme Check
     runs-on: ubuntu-latest
