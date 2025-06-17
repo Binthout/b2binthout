@@ -12,7 +12,7 @@ jobs:
           store: ${{ secrets.SHOP_STORE }}
           access_token: ${{ secrets.SHOP_ACCESS_TOKEN }}
           collection_handle: all
-          pull_theme: true
+          pull_theme: "124781560000"
           lhci_min_score_performance: 0.6
           lhci_min_score_accessibility: 0.9
   theme-check:
