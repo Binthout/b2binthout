@@ -24,5 +24,6 @@ jobs:
         uses: shopify/theme-check-action@v2
         with:
           theme_root: .
-          base: main
           token: ${{ secrets.SHOP_ACCESS_TOKEN }}
+          base: main
+          flags: --config .theme-check.yml
