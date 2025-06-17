@@ -16,3 +16,13 @@ jobs:
 extends: :theme_app_extension
 root: .
 extends_core: true
+
+MatchingTranslations:
+  enabled: true
+  ignore_missing: true
+  ignore_unused: true
+  ignore_missing_default_locale: true
+  ignore_missing_template: true
+  ignore_missing_section: true
+  ignore_missing_snippet: true
+  ignore_missing_asset: true
