@@ -16,7 +16,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Voor lampen & tafels ga naar Binthout.nl",
             "link": "https://www.binthout.nl"
@@ -32,6 +31,7 @@
         },
         "edc7bd1a-8b21-4295-9bc0-721f4718a6eb": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Onze werkplaats is gesloten van 04-08-25 t/m 10-08-25. Bestellingen worden vanaf 11 augustus weer verzonden.",
             "link": ""
