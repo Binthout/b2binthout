@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,37 +23,37 @@
         "template--18486229107020__1557e34f-fdf1-458f-be8c-e525bdf780cf-16801851471c9018d8-0": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/schuren-binthout-2_22261f51-9d2a-4d45-997b-7cdfec126cf0.jpg",
+            "image": "shopify://shop_images/schuren-binthout-2_22261f51-9d2a-4d45-997b-7cdfec126cf0.jpg",
             "image_link": "",
             "caption": "Duurzaam & circulaire productie",
             "heading": "Maak het beste product!",
-            "text": "<p>De grootste verantwoordelijkheid die we als producent kunnen nemen is; dat we producten maken die vele jaren mee gaan. Onze producten moeten een duidelijke functionaliteit hebben, hersteld & gerepareerd kunnen worden en bovenal een lange levensduur hebben.<\/p>",
+            "text": "<p>De grootste verantwoordelijkheid die we als producent kunnen nemen is; dat we producten maken die vele jaren mee gaan. Onze producten moeten een duidelijke functionaliteit hebben, hersteld & gerepareerd kunnen worden en bovenal een lange levensduur hebben.</p>",
             "button_label": "Naar de producten",
-            "button_link": "shopify:\/\/collections"
+            "button_link": "shopify://collections"
           }
         },
         "template--18486229107020__1557e34f-fdf1-458f-be8c-e525bdf780cf-16801851471c9018d8-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/zwolsessen_1484x1024_422d0b39-1a04-448b-a1cd-f8804a58a83b.jpg",
+            "image": "shopify://shop_images/zwolsessen_1484x1024_422d0b39-1a04-448b-a1cd-f8804a58a83b.jpg",
             "image_link": "",
             "caption": "Van puur Nederlands hout",
-            "heading": "Red hout van de versnipperaar!",
-            "text": "<p>Niet meer versnipperen en verbranden, maar een circulaire economie gebaseerd op hernieuwbare grondstoffen.<\/p><p>Onze producten bestaan alleen uit aantoonbaar duurzaam hout met FSC® keurmerk, lokaal Stadshout of FSC® recycled.<\/p>",
+            "heading": "Hout verdient tweede leven!",
+            "text": "<p>Hout is een waardevolle, hernieuwbare grondstof. We benutten die waarde graag zo goed mogelijk.</p><p>We werken met <a href=\"https://www.staatsbosbeheer.nl/zakendoen/hollands-hout\" title=\"Hollands Hout\">Hollands Hout</a> en geven het een nieuwe bestemming in producten die jarenlang meegaan. Van kleine interieurproducten tot B2b-maatwerk: we maken van hout iets dat opnieuw waarde krijgt.</p><p>Zo houden we de grondstof zo lang mogelijk in gebruik en maken we van lokaal hout een product met betekenis.</p><p>Onze producten bestaan alleen uit aantoonbaar duurzaam hout met FSC® keurmerk, lokaal Stadshout of FSC® recycled.</p>",
             "button_label": "Bekijk onze partners",
-            "button_link": "shopify:\/\/blogs\/partners"
+            "button_link": "shopify://blogs/partners"
           }
         },
         "template--18486229107020__1557e34f-fdf1-458f-be8c-e525bdf780cf-16801851471c9018d8-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/werkplaats-binthout-zagen.jpg",
+            "image": "shopify://shop_images/werkplaats-binthout-zagen.jpg",
             "image_link": "",
             "caption": "Sociaal geproduceerd",
             "heading": "Zorg voor waardevol werk",
-            "text": "<p>We zijn enorm blij dat we ons, met het werk dat we doen, inzetten om mensen uit kwetsbare groepen weer aan het werk te helpen. <\/p><p>Wij vinden dat iedereen recht heeft op waardevol werk en een kans verdient op de arbeidsmarkt. En andersom bieden deze mensen ons een heleboel kansen en mogelijkheden en vooral plezier in ons werk.<\/p>",
+            "text": "<p>We zijn enorm blij dat we ons, met het werk dat we doen, inzetten om mensen uit kwetsbare groepen weer aan het werk te helpen. </p><p>Wij vinden dat iedereen recht heeft op waardevol werk en een kans verdient op de arbeidsmarkt. En andersom bieden deze mensen ons een heleboel kansen en mogelijkheden en vooral plezier in ons werk.</p>",
             "button_label": "Bekijk onze impact",
-            "button_link": "shopify:\/\/blogs\/impact"
+            "button_link": "shopify://blogs/impact"
           }
         }
       },
@@ -56,15 +65,15 @@
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
+        "image_layout": "align-left",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "primary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "align-left",
+        "mobile_content_alignment": "left",
         "section_color_scheme": "background-1",
         "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -75,7 +84,7 @@
         "template--18486229107020__5d11403d-1fac-4b04-98b0-2610e73ccb29-16801854414c333ffc-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-socialenterprise.png",
+            "image": "shopify://shop_images/logo-socialenterprise.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -85,7 +94,7 @@
         "template--18486229107020__5d11403d-1fac-4b04-98b0-2610e73ccb29-16801854414c333ffc-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo_VL_Fonds_RGB_61496140-f9e0-423a-bb81-0250e3a3621a.png",
+            "image": "shopify://shop_images/Logo_VL_Fonds_RGB_61496140-f9e0-423a-bb81-0250e3a3621a.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -95,7 +104,7 @@
         "template--18486229107020__5d11403d-1fac-4b04-98b0-2610e73ccb29-16801854414c333ffc-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo_rabobankfoundation.png",
+            "image": "shopify://shop_images/Logo_rabobankfoundation.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -113,11 +122,11 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -138,7 +147,7 @@
         "template--18486229107020__5c774417-c690-40e1-bfbb-eb9d0f7a49ed-1680184761bc6634fe-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Sociaal ondernemers <a href=\"https:\/\/www.linkedin.com\/in\/karst-klein-37846620\" target=\"_blank\" title=\"Karst Klein\">Karst Klein<\/a> en <a href=\"https:\/\/www.linkedin.com\/in\/corwobma\" target=\"_blank\" title=\"Cor Wobma\">Cor Wobma<\/a> starten in maart 2013 Binthout vanuit een hart voor hout, mens en design.<\/p><p>Van boom tot eindproduct creëren zij diverse werkzaamheden die passen bij de wensen en behoeften van mensen met een zekere afstand tot de reguliere arbeidsmarkt. Hierin werken ze samen met verschillende stichtingen.<\/p><h2>Winnaar Social Impact Award<\/h2><p>De onderneming groeit en bloeit en verhuist in 2017 naar \"<a href=\"http:\/\/www.buitengoeddeherfte.nl\/\" target=\"_blank\" title=\"Buitengoed de herfte Binthout Zwolle\">Buitengoed de Herfte<\/a>\" en wordt in datzelfde jaar winnaar van de Social Impact Award.<\/p><p>Door het sluiten van de houtzagerij eind 2020 ontstaat er een zoektocht naar een geschikte plek om de zaagwerkzaamheden opnieuw op te bouwen. Tijdens deze zoektocht komt Karst een te koop staande zorgboerderij in Dalfsen tegen en een lang gekoesterde droom wordt in mei 2021 werkelijkheid. Karst neemt de biologische en tevens zorg georiënteerde boerderij genaamd “<a href=\"https:\/\/www.landjuweeldehoeven.nl\/\" target=\"_blank\" title=\"Landjuweel de Hoeven\">Landjuweel de Hoeven”<\/a> over.<\/p><h2>Houtproducten met grote Impact<\/h2><p>De verschuiving van Binthout naar kleine producten met een grote impact past heel goed bij Cor als ontwerper en vanaf 1 januari 2022 neemt Cor dan ook het roer van Binthout volledig over. Samen kijken ze terug op bijna negen prachtige jaren van samenwerking en wordt er ook met verlangen uitgekeken naar wat de komende jaren voor beide ondernemers gaat brengen.<\/p>",
+            "text": "<p>Sociaal ondernemers <a href=\"https://www.linkedin.com/in/karst-klein-37846620\" target=\"_blank\" title=\"Karst Klein\">Karst Klein</a> en <a href=\"https://www.linkedin.com/in/corwobma\" target=\"_blank\" title=\"Cor Wobma\">Cor Wobma</a> starten in maart 2013 Binthout vanuit een hart voor hout, mens en design.</p><p>Van boom tot eindproduct creëren zij diverse werkzaamheden die passen bij de wensen en behoeften van mensen met een zekere afstand tot de reguliere arbeidsmarkt. Hierin werken ze samen met verschillende stichtingen.</p><h2>Winnaar Social Impact Award</h2><p>De onderneming groeit en bloeit en verhuist in 2017 naar \"<a href=\"http://www.buitengoeddeherfte.nl/\" target=\"_blank\" title=\"Buitengoed de herfte Binthout Zwolle\">Buitengoed de Herfte</a>\" en wordt in datzelfde jaar winnaar van de Social Impact Award.</p><p>Door het sluiten van de houtzagerij eind 2020 ontstaat er een zoektocht naar een geschikte plek om de zaagwerkzaamheden opnieuw op te bouwen. Tijdens deze zoektocht komt Karst een te koop staande zorgboerderij in Dalfsen tegen en een lang gekoesterde droom wordt in mei 2021 werkelijkheid. Karst neemt de biologische en tevens zorg georiënteerde boerderij genaamd “<a href=\"https://www.landjuweeldehoeven.nl/\" target=\"_blank\" title=\"Landjuweel de Hoeven\">Landjuweel de Hoeven”</a> over.</p><h2>Houtproducten met grote Impact</h2><p>De verschuiving van Binthout naar kleine producten met een grote impact past heel goed bij Cor als ontwerper en vanaf 1 januari 2022 neemt Cor dan ook het roer van Binthout volledig over. Samen kijken ze terug op bijna negen prachtige jaren van samenwerking en wordt er ook met verlangen uitgekeken naar wat de komende jaren voor beide ondernemers gaat brengen.</p>",
             "text_style": "body"
           }
         },
@@ -154,7 +163,8 @@
           "type": "button",
           "settings": {
             "button_label": "Contactformulier",
-            "button_link": "shopify:\/\/pages\/contact"
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false
           }
         }
       },
@@ -165,16 +175,17 @@
         "template--18486229107020__5c774417-c690-40e1-bfbb-eb9d0f7a49ed-1680184761bc6634fe-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/oprichters-binthout.jpg",
+        "image": "shopify://shop_images/oprichters-binthout.jpg",
         "height": "large",
         "desktop_image_width": "small",
         "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "background-2",
         "padding_top": 36,
         "padding_bottom": 36
       }
